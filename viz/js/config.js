@@ -56,8 +56,8 @@ const CONFIG = {
   },
 
   genderColors: {
-    "Female": "#ff66c4",
-    "Male":   "#00a6d6",
+    "Female": "#e6a3c7",
+    "Male":   "#8ecae6",
   },
 
   // Safe zone gradient: green (safe) → yellow (caution) → red (avoid)
