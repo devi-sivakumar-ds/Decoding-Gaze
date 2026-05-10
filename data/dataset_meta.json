@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "participants": 236,
+    "totalSequences": 1100,
+    "analyzedSessions": 640,
+    "activities": 8,
+    "gazeHz": 10
+  },
+  "gender": [
+    { "label": "Female", "participants": 116 },
+    { "label": "Male",   "participants": 120 }
+  ],
+  "ageGroup": [
+    { "label": "18–24", "participants": 49 },
+    { "label": "25–30", "participants": 58 },
+    { "label": "31–35", "participants": 44 },
+    { "label": "36–40", "participants": 44 },
+    { "label": "41–45", "participants": 18 },
+    { "label": "46–50", "participants": 23 }
+  ],
+  "activities": [
+    { "activity": "Cooking",      "sessions": 154, "female": 76, "male": 78 },
+    { "activity": "Searching",    "sessions": 118, "female": 59, "male": 59 },
+    { "activity": "Game Night",   "sessions": 113, "female": 43, "male": 70 },
+    { "activity": "Housekeeping", "sessions":  79, "female": 35, "male": 44 },
+    { "activity": "Fresh Air",    "sessions":  66, "female": 37, "male": 29 },
+    { "activity": "Meal",         "sessions":  53, "female": 35, "male": 18 },
+    { "activity": "Relaxing",     "sessions":  31, "female": 11, "male": 20 },
+    { "activity": "Workout",      "sessions":  26, "female": 12, "male": 14 }
+  ],
+  "recordingsPerParticipant": [
+    { "recordings": 1, "count":   5 },
+    { "recordings": 2, "count":   9 },
+    { "recordings": 3, "count":  20 },
+    { "recordings": 4, "count":  49 },
+    { "recordings": 5, "count": 129 },
+    { "recordings": 6, "count":   6 },
+    { "recordings": 7, "count":   4 },
+    { "recordings": 8, "count":  14 }
+  ]
+}

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Decoding Gaze</title>
+  <link rel="stylesheet" href="css/styles.css" />
+
+  <!-- D3 v7 -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+</head>
+
+<body>
+
+  <!-- ═══════════════════════════════════════════════════════════════════
+       HEADER
+  ════════════════════════════════════════════════════════════════════ -->
+  <header class="hero-intro" id="intro">
+    <svg class="hero-gaze-field" aria-hidden="true"></svg>
+    <div class="hero-content">
+      <h1>Decoding Gaze: Where Are You Looking?</h1>
+      <br> 
+      <p class="subtitle">
+        Think about everything you do in a day. When you’re wearing smart glasses, where does your focus actually land?
+        <br><br>
+        Does your gaze stay in the same place whether you're busy at work or just hanging out? And does everyone look at
+        the world through their lenses in the same way, or is your "visual footprint" unique to you?
+        <br><br>
+        Let’s dive in and see what’s really happening behind the lens!
+      </p>
+      <button class="hero-start" type="button" data-scroll-target="#act1" aria-label="Start exploring Act 1">
+        <span aria-hidden="true">↓</span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         ACT 1 — Setup
+    ════════════════════════════════════════════════════════════════ -->
+    <section class="act" id="act1">
+      <h2>You're wearing smart glasses. Where do your eyes actually go?</h2>
+      <p class="act-intro">
+        Imagine you're cooking dinner, checking the recipe, watching the pan, glancing at your hands. Your eyes are
+        constantly moving, but where exactly do they land on the lens of your glasses?
+        <br><br>
+        Here's a real recording from someone wearing smart glasses with a built-in eye tracker. Each dot is their gaze
+        touching the lens at a single moment in time. Hit play, try different activities, and watch where the dot tends
+        to land.
+      </p>
+
+      <div class="panel" id="panel-trail">
+        <div class="panel-header">
+          <h3>Watch a Real Person's Eyes Move</h3>
+          <div class="trail-controls">
+            <div class="activity-pills" id="trail-activity-selector"></div>
+            <div class="playback-controls">
+              <button id="trail-play-pause" class="btn-icon">&#9654;</button>
+              <span class="speed-label">Speed:</span>
+              <button class="btn-speed active" data-speed="1">1×</button>
+              <button class="btn-speed" data-speed="2">2×</button>
+              <button class="btn-speed" data-speed="4">4×</button>
+            </div>
+          </div>
+        </div>
+        <div id="trail-lens-container"></div>
+        <p class="panel-caption">
+          Dots are gaze positions projected onto each lens coordinate frame.
+        </p>
+        <p class="panel-caption" id="trail-caption"></p>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         ACT 2 — Discovery
+    ════════════════════════════════════════════════════════════════ -->
+    <section class="act" id="act2">
+      <h2>Turns out — what you're doing is linked to where you look.</h2>
+      <p class="act-intro">
+        When you're cooking, your gaze naturally drops toward the bottom of the lens because you're focused on your
+        hands, the cutting board, or the pan. But when you’re relaxing, your focus tends to float toward the top of the
+        lens as you watch TV or look around the room.
+        <br><br>
+        To see if this happens for everyone, we can look at the <strong>Nymeria dataset</strong>, which features
+        <strong>640 recordings</strong> from <strong>236 different
+          people</strong>. It’s a massive window into how people move their eyes in the real world—so let’s look at the
+        patterns we find!
+      </p>
+      <div class="panel-row activity-comparison-row">
+
+        <div class="panel" id="panel-centroid">
+          <h3>Where Does Each Activity Land on the Lens?</h3>
+          <p class="panel-desc">
+            Each dot is the average eye position on the lens for one activity. The oval around
+            each dot shows the spread — how much different people vary within that activity.
+          </p>
+          <div id="centroid-lens-container"></div>
+          <p class="panel-caption">
+            Cooking gaze lands <strong>3.5 mm lower</strong> on the lens than relaxing. This difference held for 9 out of 10
+            people in the study.
+          </p>
+        </div>
+
+        <div class="panel" id="panel-strip">
+          <h3>But Does This Hold for Everyone?</h3>
+          <p class="panel-desc">
+            Each dot is one real recording from one real person. If the pattern were only an
+            average fluke, you'd expect the dots to blur together. Instead, activities tend to sit
+            in different vertical ranges, with overlap. Toggle the checkbox to compare the gender pattern too.
+          </p>
+          <div class="strip-controls">
+            <label class="toggle-label">
+              <input type="checkbox" id="strip-gender-toggle" />
+              Colour by gender
+            </label>
+          </div>
+          <div id="strip-chart-container"></div>
+        </div>
+
+      </div>
+      <!-- Dataset accordion -->
+      <details class="dataset-accordion">
+        <summary>Wanna know more about the dataset? <span class="accordion-hint">Click to expand</span></summary>
+        <div class="accordion-body">
+
+          <p class="accordion-desc">
+            The data comes from the
+            <a href="https://www.projectaria.com/datasets/nymeria/" target="_blank">Nymeria Dataset</a>
+            — a collection of 1,100 recordings made by people wearing
+            <a href="https://about.meta.com/realitylabs/projectaria/" target="_blank">Project Aria research glasses</a>
+            from Meta. Think of them as scientific smart glasses: they have an outward-facing camera
+            and an eye tracker that captures exactly where you're looking 10 times per second.
+            <br><br>
+            We only used sessions with individually-tuned eye calibration — meaning the tracker was
+            adjusted to fit each person's eyes specifically, giving much higher accuracy. That
+            narrowed 1,100 total recordings down to our 640.
+          </p>
+
+          <div class="stats-bar">
+            <div class="stat">
+              <span class="stat-value">236</span>
+              <span class="stat-label">Participants</span>
+            </div>
+            <div class="stat">
+              <span class="stat-value">640</span>
+              <span class="stat-label">Analyzed sessions</span>
+            </div>
+            <div class="stat">
+              <span class="stat-value">8</span>
+              <span class="stat-label">Activities</span>
+            </div>
+            <div class="stat">
+              <span class="stat-value">10 Hz</span>
+              <span class="stat-label">Gaze sample rate</span>
+            </div>
+          </div>
+
+          <div class="panel-row">
+            <div class="panel" id="panel-dataset-demo">
+              <h3>Who Participated?</h3>
+              <p class="panel-desc">Breakdown of the 236 participants by gender and age group.</p>
+              <div id="dataset-gender-container"></div>
+              <div id="dataset-age-container"></div>
+            </div>
+            <div class="panel" id="panel-dataset-activities">
+              <h3>Sessions by Activity</h3>
+              <p class="panel-desc">
+                Number of sessions per activity, split by gender.
+                Hover a bar segment for the exact count.
+              </p>
+              <div id="dataset-activities-container"></div>
+            </div>
+          </div>
+
+        </div>
+      </details>
+
+
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         ACT 3 — So What?
+    ════════════════════════════════════════════════════════════════ -->
+    <section class="act" id="act3">
+      <h2>So what? If you're building AR glasses, this matters a lot.</h2>
+      <p class="act-intro">
+        When smart glasses show you notifications, directions, or updates, that information has to sit somewhere on the
+        lens.
+        <br><br>
+        So, where is a better spot to put a digital display? Find out yourself!
+      </p>
+
+      <div class="panel-row">
+
+        <div class="panel" id="panel-safezone">
+          <h3>Where Should You Put an AR Notification?</h3>
+          <p class="panel-desc">
+            The colours show how much of people's gaze falls in each region of the lens.
+            &nbsp;
+          </p>
+          <div class="activity-pills" id="safezone-activity-selector"></div>
+          <div id="safezone-lens-container"></div>
+          <p class="panel-caption" id="safezone-caption"></p>
+          <br><span class="legend-dot" style="background:#2ca02c"></span> Safe — low gaze density &nbsp;
+          <br><span class="legend-dot" style="background:#ffbb78"></span> Risky — gaze passes through here sometimes
+          &nbsp;
+          <br><span class="legend-dot" style="background:#d62728"></span> Avoid — this is where eyes actually go
+        
+        </div>
+
+        <div class="panel" id="panel-ar-designer">
+          <h3>Try It Yourself — Design an AR Overlay</h3>
+          <p class="panel-desc">
+            Drag the white box to any position on the lens. It represents an AR notification.
+            <br>
+            The percentage estimates how much of the selected activity's gaze-density footprint overlaps the box.
+            <br>
+            Try moving it around, then switch activities and watch the number change.
+          </p>
+          <div class="activity-pills" id="ar-activity-selector"></div>
+          <div id="ar-lens-container"></div>
+          <div id="ar-collision-readout"></div>
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         CONCLUSION
+    ════════════════════════════════════════════════════════════════ -->
+    <section class="act conclusion-act" id="conclusion">
+      <div class="conclusion-layout">
+        <div class="conclusion-copy">
+          <p class="conclusion-statement">
+            You just turned a cloud of gaze dots into a map for smart-glasses design!
+          </p>
+        </div>
+
+        <div class="conclusion-visual" aria-hidden="true">
+          <img class="conclusion-glasses-img" src="assets/glasseswithnotifics.png" alt="" />
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>
+      Built with data from the
+      <a href="https://www.projectaria.com/datasets/nymeria/" target="_blank">Nymeria Dataset</a>
+      by Meta Reality Labs. Visualization by 
+      <a href="https://www.linkedin.com/in/devi-sivakumar/" target="_blank">Devi Sivakumar</a>, UC Berkeley.
+    </p>
+  </footer>
+
+  <!-- ── JS: load order matters ──────────────────────────────────────────── -->
+
+  <!-- 1. Config (no dependencies) -->
+  <script src="js/config.js"></script>
+
+  <!-- 2. Utils (depend on CONFIG) -->
+  <script src="js/utils/lensScales.js"></script>
+  <script src="js/utils/tooltip.js"></script>
+
+  <!-- 3. Components (depend on CONFIG + utils) -->
+  <script src="js/components/lensFrame.js"></script>
+  <script src="js/components/datasetOverview.js"></script>
+  <script src="js/components/gazeTrail.js"></script>
+  <script src="js/components/centroidMap.js"></script>
+  <script src="js/components/stripChart.js"></script>
+  <script src="js/components/marginalDist.js"></script>
+  <script src="js/components/safeZone.js"></script>
+  <script src="js/components/arDesigner.js"></script>
+  <script src="js/components/genderView.js"></script>
+  <script src="js/components/heroIntro.js"></script>
+
+  <!-- 4. Main (wires everything together) -->
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>

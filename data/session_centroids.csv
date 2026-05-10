@@ -1,0 +1,641 @@
+sequence_uid,activity,script,participant,gender,age_group,cx_mm,cy_mm,sx_mm,sy_mm,r90_mm,jitter,color
+20230628_s0_adriana_gonzalez_act1_2vshuw,Relaxing,S1-Relax_at_home,adriana_gonzalez,Male,25-30,-1.624,-4.798,3.004,4.415,8.932,0.1918,#9c755f
+20230628_s0_adriana_gonzalez_act4_rzxlmo,Cooking,S7-Cooking,adriana_gonzalez,Male,25-30,-0.258,-9.264,3.507,3.607,8.051,-0.0428,#4e79a7
+20230801_s0_aimee_davis_act0_afguuq,Meal,S8-Having_a_meal,aimee_davis,Female,46-50,-0.584,-11.656,5.248,5.958,12.278,0.251,#76b7b2
+20230801_s0_aimee_davis_act3_1lef15,Workout,S5-Workout,aimee_davis,Female,46-50,-0.475,-5.67,3.365,3.309,7.134,0.1382,#59a14f
+20230929_s1_alan_burns_act0_06krf1,Searching,S2-Where_is_X,alan_burns,Female,25-30,0.509,-2.18,2.319,2.256,5.876,-0.2841,#edc948
+20230929_s1_alan_burns_act2_hap6xx,Fresh Air,S19-Fresh_air,alan_burns,Female,25-30,-0.172,-2.707,0.787,0.971,1.735,0.3329,#b07aa1
+20230929_s1_alan_burns_act3_dxzzwb,Game Night,S12-Game_night,alan_burns,Female,25-30,-0.941,-2.428,3.524,3.568,7.437,0.1828,#e15759
+20230929_s1_alan_burns_act4_zch0c7,Cooking,S7-Cooking,alan_burns,Female,25-30,-0.052,-3.59,3.426,2.992,7.411,0.2002,#4e79a7
+20231010_s0_albert_hammond_act0_k4ikpb,Searching,S2-Where_is_X,albert_hammond,Female,25-30,0.657,-8.1,4.356,4.38,9.403,-0.2603,#edc948
+20231010_s0_albert_hammond_act2_op7b8a,Searching,S2-Where_is_X,albert_hammond,Female,25-30,0.153,-8.096,4.778,4.553,9.967,-0.0347,#edc948
+20231010_s0_albert_hammond_act3_wshdw5,Cooking,S7-Cooking,albert_hammond,Female,25-30,0.299,-9.664,3.507,4.327,8.937,-0.0904,#4e79a7
+20230921_s1_alec_meza_act0_8ytqbv,Meal,S8-Having_a_meal,alec_meza,Female,25-30,1.047,-7.3,4.351,4.404,8.973,0.2987,#76b7b2
+20230921_s1_alec_meza_act3_9st519,Fresh Air,S19-Fresh_air,alec_meza,Female,25-30,0.704,-3.771,2.163,2.494,5.44,0.1007,#b07aa1
+20230825_s1_alejandra_reynolds_act0_pbn5z4,Housekeeping,S10-Housekeeping,alejandra_reynolds,Male,31-35,-0.278,-6.668,4.389,3.972,8.938,0.2259,#f28e2b
+20230825_s1_alejandra_reynolds_act1_5i0rcc,Cooking,S7-Cooking,alejandra_reynolds,Male,31-35,0.457,-7.033,4.348,3.85,8.711,-0.0396,#4e79a7
+20230825_s1_alejandra_reynolds_act3_b3i6kj,Searching,S2-Where_is_X,alejandra_reynolds,Male,31-35,0.055,-5.044,4.02,3.97,8.368,-0.1909,#edc948
+20231121_s0_alexandria_griffith_act0_945arb,Cooking,S7-Cooking,alexandria_griffith,Female,36-40,1.35,-9.826,3.064,4.468,8.3,0.0382,#4e79a7
+20231121_s0_alexandria_griffith_act1_za20h3,Housekeeping,S10-Housekeeping,alexandria_griffith,Female,36-40,0.816,-8.514,3.155,4.902,8.344,-0.3053,#f28e2b
+20231121_s0_alexandria_griffith_act3_6rhdue,Searching,S2-Where_is_X,alexandria_griffith,Female,36-40,0.071,-6.868,3.719,4.232,8.632,0.2293,#edc948
+20230801_s1_alexis_hernandez_act0_abfhom,Cooking,S7-Cooking,alexis_hernandez,Female,18-24,-0.286,-10.511,4.695,5.595,11.246,0.0922,#4e79a7
+20230801_s1_alexis_hernandez_act1_4km3up,Meal,S8-Having_a_meal,alexis_hernandez,Female,18-24,-1.308,-8.16,4.664,6.832,11.925,0.1807,#76b7b2
+20230801_s1_alexis_hernandez_act4_jydg4c,Searching,S2-Where_is_X,alexis_hernandez,Female,18-24,-0.405,-5.558,4.737,4.242,9.604,-0.1018,#edc948
+20231205_s1_alexis_wyatt_act0_0e9t84,Cooking,S7-Cooking,alexis_wyatt,Female,25-30,1.188,-9.293,4.046,5.011,9.929,0.3295,#4e79a7
+20231205_s1_alexis_wyatt_act1_sqkh5t,Cooking,S7-Cooking,alexis_wyatt,Female,25-30,0.588,-7.758,4.431,4.879,10.169,0.2752,#4e79a7
+20231205_s1_alexis_wyatt_act6_10xd2w,Game Night,S12-Game_night,alexis_wyatt,Female,25-30,0.702,-7.441,3.789,4.826,9.411,0.1949,#e15759
+20231025_s1_alicia_drake_act0_vqu3n9,Searching,S2-Where_is_X,alicia_drake,Male,31-35,-1.111,-4.439,4.375,3.963,8.888,-0.2138,#edc948
+20231025_s1_alicia_drake_act2_ns2euv,Fresh Air,S19-Fresh_air,alicia_drake,Male,31-35,-0.191,-5.242,2.672,3.667,7.113,-0.0233,#b07aa1
+20231025_s1_alicia_drake_act3_dja4ib,Cooking,S7-Cooking,alicia_drake,Male,31-35,-1.078,-9.422,3.65,4.049,8.757,-0.3193,#4e79a7
+20231025_s1_alicia_drake_act4_h0xpxx,Game Night,S12-Game_night,alicia_drake,Male,31-35,-1.053,-8.59,3.098,4.81,8.922,-0.242,#e15759
+20230620_s1_alison_carter_act1_2s9yqg,Game Night,S12-Game_night,alison_carter,Male,36-40,-0.606,-5.849,3.213,3.326,6.878,0.1281,#e15759
+20230620_s1_alison_carter_act3_8fqa3z,Workout,S5-Workout,alison_carter,Male,36-40,-0.484,-6.103,3.574,3.35,7.96,0.1713,#59a14f
+20230823_s1_alison_riddle_act0_xf9eze,Cooking,S7-Cooking,alison_riddle,Male,36-40,0.914,-8.159,3.19,4.95,9.345,0.3273,#4e79a7
+20230823_s1_alison_riddle_act2_oetobg,Searching,S2-Where_is_X,alison_riddle,Male,36-40,0.406,-4.981,4.356,3.831,8.688,-0.1219,#edc948
+20230823_s1_alison_riddle_act4_cj51l5,Housekeeping,S10-Housekeeping,alison_riddle,Male,36-40,0.319,-7.992,4.029,3.998,8.552,-0.0907,#f28e2b
+20231003_s1_allen_evans_act0_1w2b7b,Searching,S2-Where_is_X,allen_evans,Male,41-45,-0.38,-5.723,3.86,3.1,7.767,-0.0213,#edc948
+20231003_s1_allen_evans_act2_7pj863,Searching,S2-Where_is_X,allen_evans,Male,41-45,-0.671,-7.327,3.492,3.478,7.845,-0.2174,#edc948
+20231003_s1_allen_evans_act3_4xx4gr,Game Night,S12-Game_night,allen_evans,Male,41-45,-0.651,-7.165,2.339,2.556,5.502,-0.2591,#e15759
+20231003_s1_allen_evans_act4_cv3qh0,Cooking,S7-Cooking,allen_evans,Male,41-45,-0.459,-7.725,3.051,3.004,7.129,-0.017,#4e79a7
+20231030_s1_allison_harris_act3_fe2ruo,Cooking,S7-Cooking,allison_harris,Male,41-45,1.107,-7.512,3.158,4.336,8.29,-0.1912,#4e79a7
+20231030_s1_allison_harris_act4_n8ko8d,Housekeeping,S10-Housekeeping,allison_harris,Male,41-45,1.211,-7.301,3.376,4.366,8.285,0.1189,#f28e2b
+20231106_s1_amanda_rodgers_act0_uu42ld,Searching,S2-Where_is_X,amanda_rodgers,Male,46-50,0.686,-5.721,4.556,3.931,9.076,-0.044,#edc948
+20231106_s1_amanda_rodgers_act2_snceed,Housekeeping,S10-Housekeeping,amanda_rodgers,Male,46-50,0.311,-8.918,3.668,4.652,9.035,0.2329,#f28e2b
+20231106_s1_amanda_rodgers_act3_feslhn,Game Night,S12-Game_night,amanda_rodgers,Male,46-50,-0.392,-6.205,3.09,3.387,7.221,0.1402,#e15759
+20231106_s1_amanda_rodgers_act4_kli4b8,Cooking,S7-Cooking,amanda_rodgers,Male,46-50,-0.085,-7.963,3.666,4.477,8.837,-0.1313,#4e79a7
+20231220_s1_amanda_wong_act0_0kpd1x,Cooking,S7-Cooking,amanda_wong,Male,31-35,-0.28,-6.908,4.471,4.53,9.477,0.2326,#4e79a7
+20231220_s1_amanda_wong_act1_pumk92,Cooking,S7-Cooking,amanda_wong,Male,31-35,-0.631,-6.287,4.58,4.642,9.591,0.2133,#4e79a7
+20231220_s1_amanda_wong_act5_2uuz43,Game Night,S12-Game_night,amanda_wong,Male,31-35,0.29,-5.423,4.727,5.197,10.777,-0.0788,#e15759
+20231220_s1_amanda_wong_act6_z92lyz,Housekeeping,S10-Housekeeping,amanda_wong,Male,31-35,-0.327,-5.216,4.56,4.883,9.756,-0.1482,#f28e2b
+20230713_s1_amy_crawford_act0_gnlv1f,Cooking,S7-Cooking,amy_crawford,Female,36-40,-0.596,-4.008,3.394,3.497,7.627,0.1277,#4e79a7
+20230713_s1_amy_crawford_act4_7nrb9d,Searching,S2-Where_is_X,amy_crawford,Female,36-40,-0.633,-4.444,3.206,3.606,7.444,-0.2522,#edc948
+20230818_s0_amy_padilla_act2_tcmqjj,Game Night,S12-Game_night,amy_padilla,Male,46-50,-0.684,-6.854,2.578,3.561,7.25,-0.2101,#e15759
+20230818_s0_amy_padilla_act4_dq1iuq,Cooking,S7-Cooking,amy_padilla,Male,46-50,-0.403,-10.064,3.177,4.554,8.515,-0.3448,#4e79a7
+20231026_s1_amy_rosales_act0_5kxlme,Searching,S2-Where_is_X,amy_rosales,Male,31-35,0.928,-8.682,4.903,3.89,9.548,0.2008,#edc948
+20231026_s1_amy_rosales_act1_gw4r7y,Fresh Air,S19-Fresh_air,amy_rosales,Male,31-35,1.799,-8.202,3.891,4.588,9.426,0.1154,#b07aa1
+20231026_s1_amy_rosales_act2_2a0ejg,Game Night,S12-Game_night,amy_rosales,Male,31-35,1.061,-9.452,3.933,3.578,8.072,0.1436,#e15759
+20231026_s1_amy_rosales_act3_8zoku8,Cooking,S7-Cooking,amy_rosales,Male,31-35,1.244,-6.382,3.682,2.957,7.49,0.1965,#4e79a7
+20231026_s1_amy_rosales_act4_m0nqli,Cooking,S7-Cooking,amy_rosales,Male,31-35,-0.448,-7.888,3.993,2.711,7.863,-0.0288,#4e79a7
+20231107_s0_amy_snow_act0_hi4pzu,Searching,S2-Where_is_X,amy_snow,Female,18-24,0.063,-3.741,4.368,3.411,8.821,0.0481,#edc948
+20231107_s0_amy_snow_act2_rd02py,Housekeeping,S10-Housekeeping,amy_snow,Female,18-24,0.197,-6.385,3.965,4.542,9.039,-0.2521,#f28e2b
+20231107_s0_amy_snow_act3_y044ox,Cooking,S7-Cooking,amy_snow,Female,18-24,-0.835,-6.838,3.51,3.957,8.331,-0.2698,#4e79a7
+20231107_s0_amy_snow_act4_olkcrm,Game Night,S12-Game_night,amy_snow,Female,18-24,-0.587,-3.576,2.275,2.449,5.194,0.1179,#e15759
+20231115_s1_andrew_johnson_act4_rhpi50,Cooking,S7-Cooking,andrew_johnson,Female,18-24,-0.033,-6.471,3.973,5.357,9.918,-0.0202,#4e79a7
+20231115_s1_andrew_johnson_act5_mm3rp3,Searching,S2-Where_is_X,andrew_johnson,Female,18-24,0.54,-3.817,4.919,4.695,10.22,0.0457,#edc948
+20231115_s1_andrew_johnson_act6_vol5wd,Game Night,S12-Game_night,andrew_johnson,Female,18-24,1.112,-6.404,4.398,5.548,10.255,0.1855,#e15759
+20230919_s0_andrew_taylor_act0_tyinsd,Meal,S8-Having_a_meal,andrew_taylor,Female,36-40,1.223,-7.32,4.668,6.526,11.217,0.0943,#76b7b2
+20230919_s0_andrew_taylor_act3_6n13wu,Fresh Air,S19-Fresh_air,andrew_taylor,Female,36-40,0.098,-3.355,4.394,4.044,9.525,0.0375,#b07aa1
+20230829_s1_angel_roberts_act1_pid42h,Searching,S2-Where_is_X,angel_roberts,Female,25-30,0.307,-5.161,3.733,3.784,7.793,0.0414,#edc948
+20230829_s1_angel_roberts_act3_7weiod,Cooking,S7-Cooking,angel_roberts,Female,25-30,0.457,-8.341,2.774,3.858,7.588,-0.1372,#4e79a7
+20230829_s1_angel_roberts_act4_nsvu15,Game Night,S12-Game_night,angel_roberts,Female,25-30,0.378,-6.972,2.575,3.187,6.417,-0.3284,#e15759
+20231030_s0_angela_garcia_act2_wedtsu,Fresh Air,S19-Fresh_air,angela_garcia,Female,18-24,-0.408,-15.492,3.622,6.893,12.011,-0.0443,#b07aa1
+20231030_s0_angela_garcia_act3_9mvz9c,Cooking,S7-Cooking,angela_garcia,Female,18-24,0.023,-12.95,4.414,6.377,11.873,-0.1998,#4e79a7
+20231030_s0_angela_garcia_act4_sqneyr,Housekeeping,S10-Housekeeping,angela_garcia,Female,18-24,-0.708,-12.234,4.92,6.188,11.83,-0.064,#f28e2b
+20230911_s0_angela_gomez_act0_akiu3m,Meal,S8-Having_a_meal,angela_gomez,Female,31-35,-0.835,-9.619,4.759,5.449,10.774,0.2474,#76b7b2
+20230911_s0_angela_gomez_act4_wz3jq4,Fresh Air,S19-Fresh_air,angela_gomez,Female,31-35,0.035,-7.67,3.701,3.711,8.17,-0.1862,#b07aa1
+20230609_s0_angela_harrell_act2_42epvf,Meal,S8-Having_a_meal,angela_harrell,Female,31-35,-0.485,-7.832,3.159,4.087,8.338,-0.3092,#76b7b2
+20230609_s0_angela_harrell_act3_rk26s0,Fresh Air,S19-Fresh_air,angela_harrell,Female,31-35,-1.587,-6.402,3.928,5.056,9.366,-0.153,#b07aa1
+20230731_s1_angela_mclean_act1_ds7nat,Housekeeping,S10-Housekeeping,angela_mclean,Female,46-50,-0.785,-10.707,3.687,4.228,8.81,-0.1445,#f28e2b
+20230731_s1_angela_mclean_act2_4h0qz3,Game Night,S12-Game_night,angela_mclean,Female,46-50,0.42,-10.549,3.016,3.866,7.742,0.1133,#e15759
+20230731_s1_angela_mclean_act3_nwakzz,Meal,S8-Having_a_meal,angela_mclean,Female,46-50,-0.137,-11.982,3.643,5.593,9.799,0.0399,#76b7b2
+20231120_s1_anna_chambers_act2_io7hdm,Fresh Air,S19-Fresh_air,anna_chambers,Male,31-35,0.244,-6.152,3.628,5.473,9.8,0.1987,#b07aa1
+20231120_s1_anna_chambers_act3_8d840m,Cooking,S7-Cooking,anna_chambers,Male,31-35,0.566,-10.261,3.721,5.181,9.372,0.115,#4e79a7
+20231120_s1_anna_chambers_act4_bbrita,Game Night,S12-Game_night,anna_chambers,Male,31-35,-0.276,-8.829,3.166,4.675,8.422,-0.0655,#e15759
+20231020_s0_anthony_chen_act0_2d0ghq,Meal,S8-Having_a_meal,anthony_chen,Female,18-24,-1.002,-4.391,5.27,4.621,10.439,0.2198,#76b7b2
+20231020_s0_anthony_chen_act1_vhzag9,Fresh Air,S19-Fresh_air,anthony_chen,Female,18-24,-1.11,-4.442,4.011,3.932,8.861,-0.2331,#b07aa1
+20231020_s0_anthony_chen_act3_q2jhl4,Fresh Air,S19-Fresh_air,anthony_chen,Female,18-24,-0.369,-5.364,4.213,3.56,8.772,-0.3341,#b07aa1
+20230707_s0_anthony_perez_act0_wghngx,Housekeeping,S10-Housekeeping,anthony_perez,Female,36-40,-1.687,-2.282,2.221,1.626,4.245,-0.287,#f28e2b
+20230707_s0_anthony_perez_act1_6l760p,Meal,S8-Having_a_meal,anthony_perez,Female,36-40,1.212,-5.297,4.059,3.963,8.802,0.1557,#76b7b2
+20230707_s0_anthony_perez_act4_w8od3c,Searching,S2-Where_is_X,anthony_perez,Female,36-40,0.202,-6.003,4.652,3.489,9.021,-0.0267,#edc948
+20231026_s0_arthur_byrd_act0_8yzivt,Searching,S2-Where_is_X,arthur_byrd,Male,46-50,0.121,-4.028,4.635,3.683,8.896,-0.2371,#edc948
+20231026_s0_arthur_byrd_act1_xqvggh,Fresh Air,S19-Fresh_air,arthur_byrd,Male,46-50,0.03,-3.625,3.37,2.934,6.909,0.0007,#b07aa1
+20231026_s0_arthur_byrd_act2_rl36dt,Cooking,S7-Cooking,arthur_byrd,Male,46-50,0.432,-7.093,3.216,3.344,7.221,-0.2434,#4e79a7
+20231026_s0_arthur_byrd_act3_ju7xvg,Game Night,S12-Game_night,arthur_byrd,Male,46-50,-1.283,-6.121,2.757,2.968,6.289,0.1374,#e15759
+20231026_s0_arthur_byrd_act4_gyd99i,Game Night,S12-Game_night,arthur_byrd,Male,46-50,-0.982,-6.559,2.455,2.57,5.283,-0.0377,#e15759
+20230906_s1_ashley_owens_act2_isidd8,Housekeeping,S10-Housekeeping,ashley_owens,Female,25-30,-0.435,-7.195,4.613,4.604,9.991,-0.0833,#f28e2b
+20230906_s1_ashley_owens_act3_dtkhc2,Cooking,S7-Cooking,ashley_owens,Female,25-30,-1.76,-9.271,3.515,3.122,7.344,-0.1389,#4e79a7
+20230906_s1_ashley_owens_act4_8wtl5l,Game Night,S12-Game_night,ashley_owens,Female,25-30,-1.642,-5.18,3.951,4.09,9.542,0.0912,#e15759
+20231004_s1_ashley_reyes_act0_gzwj6y,Searching,S2-Where_is_X,ashley_reyes,Male,41-45,0.171,-6.372,4.793,3.72,9.594,-0.0967,#edc948
+20231004_s1_ashley_reyes_act2_25pwky,Game Night,S12-Game_night,ashley_reyes,Male,41-45,-0.055,-6.024,2.966,2.999,6.943,-0.2886,#e15759
+20231004_s1_ashley_reyes_act3_rvrs3d,Fresh Air,S19-Fresh_air,ashley_reyes,Male,41-45,-0.674,-4.634,3.226,3.817,8.278,-0.2674,#b07aa1
+20231004_s1_ashley_reyes_act4_mhhxmg,Cooking,S7-Cooking,ashley_reyes,Male,41-45,0.085,-9.1,3.88,4.717,8.868,0.3233,#4e79a7
+20230913_s1_austin_lopez_act0_kf5qz3,Meal,S8-Having_a_meal,austin_lopez,Female,36-40,0.369,-3.279,1.683,2.562,4.742,0.286,#76b7b2
+20230913_s1_austin_lopez_act3_46m9u2,Fresh Air,S19-Fresh_air,austin_lopez,Female,36-40,0.984,-5.41,2.627,3.79,6.979,0.1398,#b07aa1
+20231114_s0_autumn_garcia_act0_evwtxn,Cooking,S7-Cooking,autumn_garcia,Male,25-30,0.028,-9.504,3.63,5.025,9.275,-0.1639,#4e79a7
+20231114_s0_autumn_garcia_act2_o7wqsz,Housekeeping,S10-Housekeeping,autumn_garcia,Male,25-30,0.353,-6.67,4.146,4.458,9.176,0.3284,#f28e2b
+20230928_s1_barbara_sandoval_act1_79yqea,Searching,S2-Where_is_X,barbara_sandoval,Male,31-35,2.076,-6.303,3.425,2.389,6.287,0.1951,#edc948
+20230928_s1_barbara_sandoval_act2_btx6gv,Game Night,S12-Game_night,barbara_sandoval,Male,31-35,0.718,-7.444,2.639,2.193,5.008,0.1518,#e15759
+20230928_s1_barbara_sandoval_act3_3v1muu,Searching,S2-Where_is_X,barbara_sandoval,Male,31-35,0.795,-6.395,3.99,2.889,7.689,-0.0354,#edc948
+20230928_s1_barbara_sandoval_act4_pr1raw,Cooking,S7-Cooking,barbara_sandoval,Male,31-35,1.635,-7.789,3.348,2.853,6.872,-0.1594,#4e79a7
+20230607_s1_barbara_wheeler_act1_nkg6zo,Relaxing,S1-Relax_at_home,barbara_wheeler,Male,18-24,-0.698,-5.135,4.715,4.706,10.444,-0.2825,#9c755f
+20230607_s1_barbara_wheeler_act4_5adv12,Relaxing,S1-Relax_at_home,barbara_wheeler,Male,18-24,-0.319,-8.612,5.463,4.185,10.192,0.2818,#9c755f
+20231002_s0_benjamin_bailey_act0_k8w6gq,Searching,S2-Where_is_X,benjamin_bailey,Male,36-40,-0.803,-5.551,3.794,3.336,7.867,-0.031,#edc948
+20231002_s0_benjamin_bailey_act2_k1957t,Searching,S2-Where_is_X,benjamin_bailey,Male,36-40,-0.995,-5.037,4.428,3.672,9.203,-0.2083,#edc948
+20231002_s0_benjamin_bailey_act3_foh43k,Game Night,S12-Game_night,benjamin_bailey,Male,36-40,-0.78,-5.927,3.256,4.326,8.181,-0.1358,#e15759
+20231002_s0_benjamin_bailey_act4_4h4p54,Cooking,S7-Cooking,benjamin_bailey,Male,36-40,-0.373,-7.912,3.911,4.146,9.252,0.0555,#4e79a7
+20230918_s1_bobby_griffith_act0_fzv3mk,Meal,S8-Having_a_meal,bobby_griffith,Female,25-30,-0.539,-4.413,4.251,3.699,8.323,-0.2263,#76b7b2
+20230918_s1_bobby_griffith_act3_c46j7j,Fresh Air,S19-Fresh_air,bobby_griffith,Female,25-30,0.532,-4.795,2.925,3.62,7.07,0.2496,#b07aa1
+20230728_s1_bradley_herman_act2_ksrwyv,Game Night,S12-Game_night,bradley_herman,Female,18-24,-0.899,-6.436,2.904,3.149,6.52,0.181,#e15759
+20230728_s1_bradley_herman_act3_uwvekz,Workout,S5-Workout,bradley_herman,Female,18-24,-0.154,-5.498,3.794,3.146,7.867,0.1536,#59a14f
+20231019_s1_brady_pearson_act0_4q0w7h,Meal,S8-Having_a_meal,brady_pearson,Female,36-40,-1.252,-4.866,3.659,4.895,9.346,-0.0475,#76b7b2
+20231019_s1_brady_pearson_act2_eca0o9,Fresh Air,S19-Fresh_air,brady_pearson,Female,36-40,0.174,-3.993,4.5,3.181,8.447,0.0891,#b07aa1
+20230706_s0_breanna_reese_act0_cfg468,Game Night,S12-Game_night,breanna_reese,Male,25-30,-0.662,-4.978,3.535,3.77,7.958,0.0589,#e15759
+20230706_s0_breanna_reese_act1_sigk2m,Meal,S8-Having_a_meal,breanna_reese,Male,25-30,0.104,-3.901,4.501,4.511,9.08,0.1049,#76b7b2
+20230706_s0_breanna_reese_act4_ff1ki2,Housekeeping,S10-Housekeeping,breanna_reese,Male,25-30,-0.64,-4.47,4.196,3.652,8.71,-0.2909,#f28e2b
+20231213_s1_brenda_jacobs_act0_8v2ddn,Cooking,S7-Cooking,brenda_jacobs,Female,31-35,-0.935,-6.83,5.172,3.936,10.194,-0.0589,#4e79a7
+20231213_s1_brenda_jacobs_act1_jfsx5d,Cooking,S7-Cooking,brenda_jacobs,Female,31-35,-1.49,-6.98,4.816,4.218,9.896,-0.3209,#4e79a7
+20231213_s1_brenda_jacobs_act5_al5uzv,Fresh Air,S19-Fresh_air,brenda_jacobs,Female,31-35,-0.697,-2.23,3.549,4.384,9.337,-0.0042,#b07aa1
+20231213_s1_brenda_jacobs_act6_9knn6o,Housekeeping,S10-Housekeeping,brenda_jacobs,Female,31-35,-1.151,-6.095,4.432,4.915,9.598,-0.1191,#f28e2b
+20231213_s1_brenda_jacobs_act7_mnqj9y,Game Night,S12-Game_night,brenda_jacobs,Female,31-35,-0.311,-8.438,4.086,5.091,10.22,-0.2488,#e15759
+20230713_s0_brian_wheeler_act3_rhb1ew,Searching,S2-Where_is_X,brian_wheeler,Female,25-30,-0.514,-9.475,4.531,5.165,10.135,-0.2776,#edc948
+20231129_s0_brittney_goodwin_act0_4n2i8x,Cooking,S7-Cooking,brittney_goodwin,Female,25-30,0.703,-11.59,3.636,4.503,8.796,0.0614,#4e79a7
+20231129_s0_brittney_goodwin_act1_q5w3fs,Cooking,S7-Cooking,brittney_goodwin,Female,25-30,0.727,-10.828,2.89,3.497,6.938,-0.2306,#4e79a7
+20231129_s0_brittney_goodwin_act2_5v65nb,Searching,S2-Where_is_X,brittney_goodwin,Female,25-30,-0.207,-8.119,4.046,3.613,8.15,0.2976,#edc948
+20231129_s0_brittney_goodwin_act3_es7voc,Game Night,S12-Game_night,brittney_goodwin,Female,25-30,-0.188,-8.994,2.464,4.149,7.473,0.0567,#e15759
+20230817_s0_brittney_powell_act0_gpjfxe,Relaxing,S1-Relax_at_home,brittney_powell,Female,36-40,-1.019,-6.612,3.563,5.733,10.725,-0.1072,#9c755f
+20230817_s0_brittney_powell_act2_87vydu,Searching,S2-Where_is_X,brittney_powell,Female,36-40,-1.375,-7.701,4.81,5.14,10.426,0.0636,#edc948
+20231117_s1_brooke_butler_act0_2stj2b,Housekeeping,S10-Housekeeping,brooke_butler,Male,36-40,0.262,-4.959,2.899,3.306,6.232,-0.334,#f28e2b
+20231117_s1_brooke_butler_act1_n6qbu8,Fresh Air,S19-Fresh_air,brooke_butler,Male,36-40,0.065,-1.904,2.733,3.825,7.235,0.321,#b07aa1
+20231117_s1_brooke_butler_act2_yhi7zj,Game Night,S12-Game_night,brooke_butler,Male,36-40,-0.083,-2.493,3.189,3.318,7.073,-0.0124,#e15759
+20231117_s1_brooke_butler_act3_ka03fn,Searching,S2-Where_is_X,brooke_butler,Male,36-40,-0.267,-2.626,3.973,3.344,7.996,0.1979,#edc948
+20231117_s1_brooke_butler_act4_w8xkvt,Housekeeping,S10-Housekeeping,brooke_butler,Male,36-40,-0.001,-3.883,3.768,3.603,8.063,-0.2921,#f28e2b
+20231115_s0_carly_patterson_act3_0upafo,Game Night,S12-Game_night,carly_patterson,Male,25-30,-1.027,-2.419,3.447,3.753,7.885,-0.0093,#e15759
+20231115_s0_carly_patterson_act4_5yuryl,Cooking,S7-Cooking,carly_patterson,Male,25-30,0.422,-7.646,3.244,4.444,8.929,-0.0065,#4e79a7
+20231115_s0_carly_patterson_act5_5fdwlm,Searching,S2-Where_is_X,carly_patterson,Male,25-30,-0.586,-4.901,4.215,4.719,9.501,0.3065,#edc948
+20231115_s0_carly_patterson_act6_js81qs,Game Night,S12-Game_night,carly_patterson,Male,25-30,-1.017,-4.408,4.96,5.485,11.017,0.0502,#e15759
+20230825_s0_carrie_robinson_act0_08nph3,Cooking,S7-Cooking,carrie_robinson,Male,41-45,-0.609,-7.611,3.541,2.766,7.192,-0.0186,#4e79a7
+20230825_s0_carrie_robinson_act1_kzs086,Relaxing,S1-Relax_at_home,carrie_robinson,Male,41-45,0.441,-4.034,3.35,3.103,6.946,-0.1631,#9c755f
+20230825_s0_carrie_robinson_act2_8uwqxr,Game Night,S12-Game_night,carrie_robinson,Male,41-45,-0.489,-7.791,3.07,3.09,7.538,-0.1179,#e15759
+20231010_s1_cheryl_johnson_act0_7geogn,Searching,S2-Where_is_X,cheryl_johnson,Female,31-35,-0.393,-6.997,4.208,3.482,8.264,0.0145,#edc948
+20231010_s1_cheryl_johnson_act2_xssrc8,Searching,S2-Where_is_X,cheryl_johnson,Female,31-35,-0.608,-7.584,4.48,3.876,8.992,-0.0428,#edc948
+20231010_s1_cheryl_johnson_act3_fn3vci,Cooking,S7-Cooking,cheryl_johnson,Female,31-35,-0.794,-12.039,3.477,4.456,9.083,-0.3349,#4e79a7
+20230612_s1_christina_jones_act1_ixxtbh,Relaxing,S1-Relax_at_home,christina_jones,Male,46-50,0.192,-7.339,3.171,2.608,6.985,0.2284,#9c755f
+20230612_s1_christina_jones_act4_iizndy,Relaxing,S1-Relax_at_home,christina_jones,Male,46-50,0.436,-4.007,5.037,3.135,8.709,0.2773,#9c755f
+20231023_s0_christopher_green_act0_xmkg1h,Searching,S2-Where_is_X,christopher_green,Female,18-24,1.11,-7.895,5.188,4.66,10.699,-0.2518,#edc948
+20231023_s0_christopher_green_act2_uqfh8o,Searching,S2-Where_is_X,christopher_green,Female,18-24,1.017,-6.587,5.283,4.311,10.353,0.0378,#edc948
+20231023_s0_christopher_green_act3_y3ve5x,Game Night,S12-Game_night,christopher_green,Female,18-24,0.441,-9.377,3.824,3.959,8.912,-0.274,#e15759
+20231023_s0_christopher_green_act4_fzytyg,Cooking,S7-Cooking,christopher_green,Female,18-24,0.633,-11.851,4.015,4.434,9.461,0.1206,#4e79a7
+20231121_s1_christopher_martinez_act2_k0tjlc,Cooking,S7-Cooking,christopher_martinez,Female,18-24,-0.446,-6.41,3.588,3.892,7.907,-0.1531,#4e79a7
+20230714_s0_christopher_rush_act2_50m5w7,Searching,S2-Where_is_X,christopher_rush,Female,25-30,-1.85,-5.034,4.759,3.548,8.821,0.1116,#edc948
+20230714_s0_christopher_rush_act3_05gv1n,Cooking,S7-Cooking,christopher_rush,Female,25-30,-1.42,-8.012,4.241,3.507,8.521,0.1589,#4e79a7
+20230714_s0_christopher_rush_act4_bggehs,Meal,S8-Having_a_meal,christopher_rush,Female,25-30,-0.931,-6.072,4.84,3.516,8.804,0.1881,#76b7b2
+20230830_s1_christy_ramirez_act1_4q5s9x,Searching,S2-Where_is_X,christy_ramirez,Female,25-30,0.194,-5.326,5.457,3.577,10.004,-0.2746,#edc948
+20230830_s1_christy_ramirez_act3_xb7h1m,Cooking,S7-Cooking,christy_ramirez,Female,25-30,1.213,-6.588,4.723,4.491,9.988,0.2912,#4e79a7
+20231009_s0_clayton_bradley_act0_8iksyy,Searching,S2-Where_is_X,clayton_bradley,Male,25-30,0.12,-4.279,4.162,3.191,8.047,-0.1889,#edc948
+20231009_s0_clayton_bradley_act2_o6beth,Cooking,S7-Cooking,clayton_bradley,Male,25-30,0.126,-6.754,3.419,3.27,7.621,-0.3238,#4e79a7
+20231009_s0_clayton_bradley_act3_0e6w6j,Fresh Air,S19-Fresh_air,clayton_bradley,Male,25-30,0.377,-4.486,3.321,3.355,7.369,0.0384,#b07aa1
+20231004_s0_corey_coleman_act0_rr7mz0,Searching,S2-Where_is_X,corey_coleman,Female,25-30,-0.233,-9.258,5.674,4.68,11.098,-0.0904,#edc948
+20231004_s0_corey_coleman_act2_8nhznh,Fresh Air,S19-Fresh_air,corey_coleman,Female,25-30,-1.106,-8.337,5.302,4.613,10.862,0.2309,#b07aa1
+20231004_s0_corey_coleman_act3_45q7f3,Game Night,S12-Game_night,corey_coleman,Female,25-30,0.628,-8.791,5.154,5.082,11.095,0.2158,#e15759
+20231004_s0_corey_coleman_act4_270i8e,Cooking,S7-Cooking,corey_coleman,Female,25-30,0.213,-12.573,4.547,4.798,10.648,-0.128,#4e79a7
+20231208_s1_courtney_ross_act0_ueijk9,Cooking,S7-Cooking,courtney_ross,Male,25-30,0.047,-7.078,3.534,3.408,7.505,0.317,#4e79a7
+20231208_s1_courtney_ross_act1_icu1jr,Cooking,S7-Cooking,courtney_ross,Male,25-30,-0.141,-8.436,3.152,3.577,7.547,-0.1464,#4e79a7
+20231208_s1_courtney_ross_act5_l2ymrw,Housekeeping,S10-Housekeeping,courtney_ross,Male,25-30,0.664,-7.41,3.558,3.96,8.267,0.0105,#f28e2b
+20231208_s1_courtney_ross_act6_r50qt3,Game Night,S12-Game_night,courtney_ross,Male,25-30,-0.458,-6.627,2.791,3.094,6.707,-0.1708,#e15759
+20230818_s1_daniel_gregory_act1_gzstmb,Housekeeping,S10-Housekeeping,daniel_gregory,Female,41-45,0.137,-9.629,3.481,4.239,8.488,0.3052,#f28e2b
+20230818_s1_daniel_gregory_act2_qxw3ft,Workout,S5-Workout,daniel_gregory,Female,41-45,0.353,-6.214,3.318,2.892,6.911,-0.2348,#59a14f
+20231011_s1_daniel_kim_act0_czkjpc,Searching,S2-Where_is_X,daniel_kim,Female,31-35,-0.547,-5.668,4.073,3.085,8.066,-0.3186,#edc948
+20231011_s1_daniel_kim_act2_6lxp22,Searching,S2-Where_is_X,daniel_kim,Female,31-35,-0.879,-6.425,4.227,3.507,8.565,-0.0454,#edc948
+20231011_s1_daniel_kim_act3_j72s9x,Fresh Air,S19-Fresh_air,daniel_kim,Female,31-35,-0.059,-6.95,3.408,4.299,8.374,0.3447,#b07aa1
+20231011_s1_daniel_kim_act4_guulez,Cooking,S7-Cooking,daniel_kim,Female,31-35,-0.558,-9.617,3.52,4.073,8.636,0.2742,#4e79a7
+20231201_s1_daniel_wiley_act0_ok1mm7,Cooking,S7-Cooking,daniel_wiley,Male,31-35,-0.88,-8.128,3.681,4.083,8.137,0.174,#4e79a7
+20231201_s1_daniel_wiley_act2_9qypr0,Searching,S2-Where_is_X,daniel_wiley,Male,31-35,-0.576,-5.724,4.406,3.815,8.551,0.2736,#edc948
+20231201_s1_daniel_wiley_act4_jyipqj,Game Night,S12-Game_night,daniel_wiley,Male,31-35,-0.39,-6.668,3.226,3.441,7.902,0.2754,#e15759
+20230908_s1_danielle_pierce_act1_y2zcso,Searching,S2-Where_is_X,danielle_pierce,Male,31-35,-0.461,-7.233,4.825,3.708,8.963,0.0132,#edc948
+20230908_s1_danielle_pierce_act3_3pm96n,Cooking,S7-Cooking,danielle_pierce,Male,31-35,-0.123,-10.844,3.275,4.492,8.618,-0.1288,#4e79a7
+20230908_s1_danielle_pierce_act4_3twnu1,Game Night,S12-Game_night,danielle_pierce,Male,31-35,-0.158,-10.284,3.082,3.364,7.328,0.1904,#e15759
+20231130_s0_danielle_wu_act0_qgltbz,Cooking,S7-Cooking,danielle_wu,Male,18-24,0.129,-7.07,4.086,3.832,8.08,0.1132,#4e79a7
+20231130_s0_danielle_wu_act3_hpixqf,Searching,S2-Where_is_X,danielle_wu,Male,18-24,1.029,-5.988,4.85,4.174,9.523,-0.0884,#edc948
+20231130_s0_danielle_wu_act4_re8xz8,Housekeeping,S10-Housekeeping,danielle_wu,Male,18-24,0.515,-6.383,4.343,4.092,8.748,-0.2839,#f28e2b
+20230814_s1_david_hall_act0_n9k3wo,Relaxing,S1-Relax_at_home,david_hall,Male,46-50,-0.782,-3.712,3.734,3.704,7.881,0.1728,#9c755f
+20230814_s1_david_hall_act2_p5fpnm,Searching,S2-Where_is_X,david_hall,Male,46-50,-0.272,-4.763,4.542,3.722,8.878,-0.1663,#edc948
+20230814_s1_david_hall_act3_wtgp87,Game Night,S12-Game_night,david_hall,Male,46-50,-0.478,-7.959,2.281,2.49,4.974,0.3058,#e15759
+20231206_s0_david_morgan_act0_slk2yl,Cooking,S7-Cooking,david_morgan,Male,18-24,-0.435,-6.816,3.561,3.385,7.517,-0.1813,#4e79a7
+20231206_s0_david_morgan_act1_5w4yjb,Cooking,S7-Cooking,david_morgan,Male,18-24,-0.779,-10.825,2.862,3.286,7.155,-0.2641,#4e79a7
+20231206_s0_david_morgan_act5_8kkg58,Game Night,S12-Game_night,david_morgan,Male,18-24,-0.751,-7.177,2.412,3.445,6.551,0.2318,#e15759
+20231206_s0_david_morgan_act6_d2lv7e,Housekeeping,S10-Housekeeping,david_morgan,Male,18-24,-0.749,-7.945,3.926,4.835,9.534,-0.2427,#f28e2b
+20230721_s1_david_ramirez_act3_e90ru8,Game Night,S12-Game_night,david_ramirez,Male,25-30,0.198,-6.269,3.096,3.656,7.593,-0.2245,#e15759
+20231006_s0_david_vega_act0_6p16ou,Searching,S2-Where_is_X,david_vega,Female,36-40,-0.045,-6.013,4.824,4.498,9.935,0.0696,#edc948
+20231006_s0_david_vega_act2_n6de6h,Game Night,S12-Game_night,david_vega,Female,36-40,-0.369,-5.991,3.603,3.949,8.241,0.2622,#e15759
+20231006_s0_david_vega_act3_eql8yh,Cooking,S7-Cooking,david_vega,Female,36-40,-0.429,-5.885,3.339,3.514,7.754,-0.2125,#4e79a7
+20231006_s0_david_vega_act4_6bkz0c,Fresh Air,S19-Fresh_air,david_vega,Female,36-40,-0.092,-3.826,3.779,4.164,8.883,-0.1328,#b07aa1
+20230615_s0_dawn_heath_act1_9s9e13,Searching,S2-Where_is_X,dawn_heath,Male,25-30,-1.095,-5.041,4.94,3.176,8.975,0.1942,#edc948
+20230615_s0_dawn_heath_act3_k68qig,Cooking,S7-Cooking,dawn_heath,Male,25-30,-0.477,-7.414,4.055,2.994,8.47,0.3303,#4e79a7
+20231101_s1_dean_krause_act0_e3myru,Searching,S2-Where_is_X,dean_krause,Male,41-45,0.5,-6.031,4.682,3.947,9.393,0.0005,#edc948
+20231101_s1_dean_krause_act2_zfclo4,Fresh Air,S19-Fresh_air,dean_krause,Male,41-45,1.065,-8.031,4.189,5.024,10.234,-0.2493,#b07aa1
+20231101_s1_dean_krause_act3_682crw,Housekeeping,S10-Housekeeping,dean_krause,Male,41-45,-0.03,-6.642,4.381,4.299,9.216,-0.3402,#f28e2b
+20231101_s1_dean_krause_act4_1fmih5,Cooking,S7-Cooking,dean_krause,Male,41-45,-0.481,-9.329,3.705,4.776,9.218,-0.1892,#4e79a7
+20231018_s1_debra_melton_act0_35ud0g,Meal,S8-Having_a_meal,debra_melton,Male,31-35,-0.248,-9.122,4.329,3.595,9.252,-0.2577,#76b7b2
+20231018_s1_debra_melton_act2_te0bik,Fresh Air,S19-Fresh_air,debra_melton,Male,31-35,0.841,-8.533,4.285,3.894,8.801,0.1244,#b07aa1
+20231222_s0_denise_carter_act0_3rt2lg,Cooking,S7-Cooking,denise_carter,Female,25-30,0.446,-9.667,3.479,4.432,8.871,-0.2647,#4e79a7
+20231222_s0_denise_carter_act1_249vkf,Cooking,S7-Cooking,denise_carter,Female,25-30,0.528,-9.515,2.914,3.935,7.869,0.0044,#4e79a7
+20231222_s0_denise_carter_act5_monllv,Game Night,S12-Game_night,denise_carter,Female,25-30,1.224,-6.929,3.695,3.7,8.355,0.136,#e15759
+20231222_s0_denise_carter_act6_26wfkz,Housekeeping,S10-Housekeeping,denise_carter,Female,25-30,0.141,-5.041,1.76,1.423,3.413,0.0568,#f28e2b
+20231011_s0_devon_norris_act0_1q00q5,Searching,S2-Where_is_X,devon_norris,Male,18-24,-0.199,-6.607,3.881,3.603,8.125,-0.2102,#edc948
+20231011_s0_devon_norris_act2_x4yw8k,Searching,S2-Where_is_X,devon_norris,Male,18-24,-0.019,-7.547,3.886,3.835,8.36,0.2129,#edc948
+20231011_s0_devon_norris_act3_pc8aac,Cooking,S7-Cooking,devon_norris,Male,18-24,-0.147,-7.175,3.728,4.176,8.652,0.1508,#4e79a7
+20231011_s0_devon_norris_act4_pt4a8p,Game Night,S12-Game_night,devon_norris,Male,18-24,0.558,-5.199,2.348,3.212,6.435,0.1673,#e15759
+20231016_s1_diane_williams_act4_4gps4y,Fresh Air,S19-Fresh_air,diane_williams,Female,31-35,0.518,-6.689,2.013,2.837,5.467,-0.2583,#b07aa1
+20230807_s0_dominique_frye_act0_331fgc,Relaxing,S1-Relax_at_home,dominique_frye,Male,18-24,-1.051,-8.179,4.858,4.442,10.08,-0.2634,#9c755f
+20230807_s0_dominique_frye_act2_i1e9ps,Workout,S5-Workout,dominique_frye,Male,18-24,-1.268,-6.73,5.426,3.48,9.933,0.2993,#59a14f
+20231214_s1_douglas_hoffman_act4_a5ywcz,Housekeeping,S10-Housekeeping,douglas_hoffman,Female,36-40,0.749,-7.176,3.475,4.56,8.645,-0.0717,#f28e2b
+20231019_s0_douglas_martin_act0_bn05ds,Meal,S8-Having_a_meal,douglas_martin,Male,41-45,0.711,-9.22,3.621,6.672,10.916,-0.1393,#76b7b2
+20231019_s0_douglas_martin_act2_jqgdif,Fresh Air,S19-Fresh_air,douglas_martin,Male,41-45,0.177,-5.341,3.946,4.615,9.593,-0.008,#b07aa1
+20231129_s1_dylan_jones_act0_4o5mmd,Cooking,S7-Cooking,dylan_jones,Male,31-35,0.462,-7.653,3.487,3.411,7.893,0.114,#4e79a7
+20231129_s1_dylan_jones_act1_w6uh3m,Housekeeping,S10-Housekeeping,dylan_jones,Male,31-35,-0.534,-4.931,4.0,4.697,8.848,0.3189,#f28e2b
+20231129_s1_dylan_jones_act2_9ctp9s,Searching,S2-Where_is_X,dylan_jones,Male,31-35,0.671,-5.736,4.418,3.511,8.6,-0.1495,#edc948
+20231129_s1_dylan_jones_act3_rznb4r,Game Night,S12-Game_night,dylan_jones,Male,31-35,1.077,-8.512,3.581,4.001,8.692,0.2974,#e15759
+20231129_s1_dylan_jones_act4_qz9ol4,Housekeeping,S10-Housekeeping,dylan_jones,Male,31-35,0.386,-8.055,4.021,4.32,9.139,-0.3326,#f28e2b
+20231215_s1_dylan_lambert_act0_ud1ljw,Cooking,S7-Cooking,dylan_lambert,Female,25-30,-0.51,-7.472,4.673,5.225,10.53,0.0386,#4e79a7
+20231221_s1_edward_contreras_act0_8g1o1t,Cooking,S7-Cooking,edward_contreras,Female,25-30,-0.489,-7.324,3.972,4.095,8.611,0.0938,#4e79a7
+20231221_s1_edward_contreras_act1_zfbwwy,Cooking,S7-Cooking,edward_contreras,Female,25-30,-0.252,-8.355,3.88,4.476,9.141,-0.2759,#4e79a7
+20231221_s1_edward_contreras_act5_hpf8sz,Game Night,S12-Game_night,edward_contreras,Female,25-30,-0.954,-5.695,4.2,3.826,8.583,-0.2518,#e15759
+20231221_s1_edward_contreras_act6_sjxq8r,Housekeeping,S10-Housekeeping,edward_contreras,Female,25-30,-0.372,-8.602,4.236,5.04,9.998,-0.0566,#f28e2b
+20230905_s1_elizabeth_morgan_act1_i1tdvq,Searching,S2-Where_is_X,elizabeth_morgan,Female,36-40,-1.418,-2.791,3.349,2.809,6.851,0.3264,#edc948
+20230905_s1_elizabeth_morgan_act3_smhnlg,Cooking,S7-Cooking,elizabeth_morgan,Female,36-40,-0.381,-7.011,3.462,4.709,9.036,0.0672,#4e79a7
+20230905_s1_elizabeth_morgan_act4_m05bl9,Game Night,S12-Game_night,elizabeth_morgan,Female,36-40,-0.271,-5.71,2.696,3.037,7.0,0.3031,#e15759
+20230614_s0_elizabeth_sandoval_act0_bzf7du,Housekeeping,S10-Housekeeping,elizabeth_sandoval,Male,18-24,-0.586,-8.965,3.35,3.326,7.278,0.2131,#f28e2b
+20230614_s0_elizabeth_sandoval_act2_xff5r9,Game Night,S12-Game_night,elizabeth_sandoval,Male,18-24,-0.815,-9.363,3.162,4.036,7.924,-0.0228,#e15759
+20230707_s1_elizabeth_tucker_act2_dymzv7,Workout,S5-Workout,elizabeth_tucker,Male,25-30,0.634,-6.223,3.248,3.26,7.862,0.1993,#59a14f
+20230707_s1_elizabeth_tucker_act4_cbml7d,Housekeeping,S10-Housekeeping,elizabeth_tucker,Male,25-30,0.543,-5.435,3.008,3.531,7.247,-0.3375,#f28e2b
+20231017_s0_emily_farmer_act0_1fkcmb,Meal,S8-Having_a_meal,emily_farmer,Male,18-24,0.047,-5.353,5.226,5.031,10.612,-0.2736,#76b7b2
+20231017_s0_emily_farmer_act2_oo4jck,Fresh Air,S19-Fresh_air,emily_farmer,Male,18-24,-0.163,-4.347,5.934,4.459,11.741,0.2306,#b07aa1
+20231031_s1_eric_dickerson_act2_4si35n,Housekeeping,S10-Housekeeping,eric_dickerson,Male,41-45,-0.589,-9.275,4.213,4.64,9.345,0.2078,#f28e2b
+20231031_s1_eric_dickerson_act3_2sdilo,Fresh Air,S19-Fresh_air,eric_dickerson,Male,41-45,-0.073,-5.389,3.182,4.898,8.962,-0.1872,#b07aa1
+20231031_s1_eric_dickerson_act4_u8zs9t,Cooking,S7-Cooking,eric_dickerson,Male,41-45,-0.155,-10.471,3.614,5.016,9.951,0.0215,#4e79a7
+20231219_s1_erica_lee_act0_f4r1g9,Cooking,S7-Cooking,erica_lee,Female,25-30,-0.001,-9.333,5.489,5.569,11.951,0.0742,#4e79a7
+20231219_s1_erica_lee_act1_cx3z5g,Cooking,S7-Cooking,erica_lee,Female,25-30,-0.951,-9.861,4.318,4.823,10.001,0.2574,#4e79a7
+20231219_s1_erica_lee_act2_nbdcde,Meal,S8-Having_a_meal,erica_lee,Female,25-30,-0.231,-9.82,4.43,5.338,10.004,0.0722,#76b7b2
+20231219_s1_erica_lee_act5_1sdu2b,Housekeeping,S10-Housekeeping,erica_lee,Female,25-30,-1.588,-8.835,4.401,4.804,9.605,-0.0612,#f28e2b
+20231103_s1_erica_sims_act1_2cr1ms,Fresh Air,S19-Fresh_air,erica_sims,Male,31-35,-1.599,-3.836,4.132,3.523,8.465,-0.0881,#b07aa1
+20231103_s1_erica_sims_act2_53rawd,Workout,S5-Workout,erica_sims,Male,31-35,0.361,-4.938,4.118,5.267,10.585,-0.0519,#59a14f
+20231103_s1_erica_sims_act3_vp6p7a,Game Night,S12-Game_night,erica_sims,Male,31-35,0.315,-2.579,3.848,3.376,7.887,0.1064,#e15759
+20231103_s1_erica_sims_act4_japnpv,Housekeeping,S10-Housekeeping,erica_sims,Male,31-35,0.222,-5.13,4.334,3.658,8.638,0.2572,#f28e2b
+20230808_s1_erin_jones_act0_dnanle,Cooking,S7-Cooking,erin_jones,Female,18-24,-0.229,-8.258,4.025,4.008,9.18,-0.0323,#4e79a7
+20230808_s1_erin_jones_act1_fopolt,Meal,S8-Having_a_meal,erin_jones,Female,18-24,0.06,-8.654,3.883,3.34,8.596,-0.1765,#76b7b2
+20230808_s1_erin_jones_act3_zjg2py,Housekeeping,S10-Housekeeping,erin_jones,Female,18-24,-0.112,-8.872,4.425,4.765,10.047,-0.1843,#f28e2b
+20230808_s1_erin_jones_act4_77wkz6,Searching,S2-Where_is_X,erin_jones,Female,18-24,0.288,-7.398,4.723,4.406,9.747,0.1722,#edc948
+20230623_s0_erin_mccormick_act2_0li4iv,Workout,S5-Workout,erin_mccormick,Male,36-40,-0.572,-5.841,4.25,4.137,10.144,0.2216,#59a14f
+20230911_s1_ethan_jacobson_act0_jencvj,Meal,S8-Having_a_meal,ethan_jacobson,Male,25-30,-0.64,-8.254,4.788,4.834,9.608,-0.2763,#76b7b2
+20230911_s1_ethan_jacobson_act4_l7qshl,Fresh Air,S19-Fresh_air,ethan_jacobson,Male,25-30,-0.236,-7.261,5.194,4.075,10.101,-0.3034,#b07aa1
+20230823_s0_evelyn_moody_act1_s82p2e,Cooking,S7-Cooking,evelyn_moody,Female,25-30,0.109,-11.794,3.485,6.695,10.72,0.0661,#4e79a7
+20230823_s0_evelyn_moody_act2_scckao,Meal,S8-Having_a_meal,evelyn_moody,Female,25-30,0.556,-10.429,4.445,7.656,12.672,-0.2477,#76b7b2
+20230823_s0_evelyn_moody_act3_agwz0y,Searching,S2-Where_is_X,evelyn_moody,Female,25-30,0.201,-7.746,4.216,4.781,9.811,0.2273,#edc948
+20230823_s0_evelyn_moody_act4_c5qn8i,Game Night,S12-Game_night,evelyn_moody,Female,25-30,0.0,-8.058,3.53,4.961,9.937,-0.1328,#e15759
+20231122_s0_frank_hayden_act0_1wz6gh,Cooking,S7-Cooking,frank_hayden,Female,25-30,0.536,-8.493,3.644,3.999,8.804,-0.2493,#4e79a7
+20231122_s0_frank_hayden_act2_rjtf5a,Housekeeping,S10-Housekeeping,frank_hayden,Female,25-30,-0.263,-8.5,3.415,3.743,7.765,0.2947,#f28e2b
+20231122_s0_frank_hayden_act3_7v3s2u,Searching,S2-Where_is_X,frank_hayden,Female,25-30,-0.06,-4.272,3.785,3.02,7.286,-0.2341,#edc948
+20231122_s0_frank_hayden_act4_d1pep2,Fresh Air,S19-Fresh_air,frank_hayden,Female,25-30,0.704,-5.202,3.687,3.538,8.099,-0.1507,#b07aa1
+20231027_s0_george_james_act0_geiicu,Searching,S2-Where_is_X,george_james,Male,18-24,-0.788,-4.808,4.167,3.186,8.286,-0.2425,#edc948
+20231027_s0_george_james_act3_agc35l,Cooking,S7-Cooking,george_james,Male,18-24,-1.348,-8.286,2.734,3.8,7.301,-0.2692,#4e79a7
+20231027_s0_george_james_act4_xnaxx4,Game Night,S12-Game_night,george_james,Male,18-24,-0.688,-7.156,1.981,2.782,5.811,-0.3352,#e15759
+20231005_s0_glenn_richardson_act0_ubz6ea,Searching,S2-Where_is_X,glenn_richardson,Male,25-30,-0.034,-7.586,5.555,4.632,11.094,-0.3112,#edc948
+20231005_s0_glenn_richardson_act2_fwephr,Game Night,S12-Game_night,glenn_richardson,Male,25-30,-0.199,-9.864,3.458,4.032,7.928,-0.2278,#e15759
+20231005_s0_glenn_richardson_act3_hi1apl,Cooking,S7-Cooking,glenn_richardson,Male,25-30,-0.051,-11.947,4.001,5.13,10.421,-0.3126,#4e79a7
+20231005_s0_glenn_richardson_act4_bg6k8j,Fresh Air,S19-Fresh_air,glenn_richardson,Male,25-30,-0.085,-9.948,4.53,4.851,10.302,0.0638,#b07aa1
+20230630_s0_gloria_carr_act0_e88jdx,Relaxing,S1-Relax_at_home,gloria_carr,Male,41-45,0.272,-3.884,3.172,3.873,8.085,0.1265,#9c755f
+20230630_s0_gloria_carr_act2_xj3tm8,Workout,S5-Workout,gloria_carr,Male,41-45,0.325,-5.873,3.465,2.709,7.086,-0.0745,#59a14f
+20230630_s0_gloria_carr_act4_6a49eh,Game Night,S12-Game_night,gloria_carr,Male,41-45,0.363,-8.782,3.011,3.99,8.077,-0.1274,#e15759
+20230928_s0_grace_randolph_act1_fhfkif,Searching,S2-Where_is_X,grace_randolph,Female,31-35,-0.99,-3.944,3.56,2.519,6.706,0.0032,#edc948
+20230928_s0_grace_randolph_act2_0xxd51,Game Night,S12-Game_night,grace_randolph,Female,31-35,-1.313,-5.346,3.173,2.485,6.082,0.2625,#e15759
+20230928_s0_grace_randolph_act3_090k3i,Searching,S2-Where_is_X,grace_randolph,Female,31-35,1.041,-10.365,4.117,4.8,9.755,0.2458,#edc948
+20230928_s0_grace_randolph_act4_j1cw74,Cooking,S7-Cooking,grace_randolph,Female,31-35,0.852,-14.232,3.636,5.54,10.575,-0.3196,#4e79a7
+20231113_s1_greg_clark_act2_jc6wnc,Housekeeping,S10-Housekeeping,greg_clark,Male,46-50,-0.024,-7.12,3.478,3.528,7.68,-0.223,#f28e2b
+20231113_s1_greg_clark_act3_59jat5,Meal,S8-Having_a_meal,greg_clark,Male,46-50,-1.067,-4.628,4.144,3.864,8.554,-0.1843,#76b7b2
+20231113_s1_greg_clark_act4_chhp0x,Searching,S2-Where_is_X,greg_clark,Male,46-50,-1.687,-4.051,3.845,3.245,7.651,-0.1754,#edc948
+20231113_s1_greg_clark_act5_hu4348,Fresh Air,S19-Fresh_air,greg_clark,Male,46-50,-0.149,-4.516,3.646,2.855,7.512,0.0499,#b07aa1
+20231107_s1_gregory_townsend_act0_8valif,Searching,S2-Where_is_X,gregory_townsend,Male,36-40,0.343,-4.861,3.472,3.705,7.905,-0.0586,#edc948
+20231107_s1_gregory_townsend_act2_h4udvj,Housekeeping,S10-Housekeeping,gregory_townsend,Male,36-40,0.725,-5.924,3.079,3.701,7.399,-0.3155,#f28e2b
+20231107_s1_gregory_townsend_act3_pf21bg,Game Night,S12-Game_night,gregory_townsend,Male,36-40,1.451,-6.045,2.68,2.749,5.915,-0.0885,#e15759
+20231107_s1_gregory_townsend_act4_2xpcxm,Cooking,S7-Cooking,gregory_townsend,Male,36-40,0.669,-6.099,2.848,2.809,6.285,0.0166,#4e79a7
+20230901_s1_hannah_brown_act1_tfcxk8,Searching,S2-Where_is_X,hannah_brown,Female,46-50,0.071,-2.228,3.571,3.785,7.717,-0.2788,#edc948
+20230901_s1_hannah_brown_act3_2r6hss,Cooking,S7-Cooking,hannah_brown,Female,46-50,0.586,-6.713,2.849,4.475,8.229,0.2334,#4e79a7
+20230901_s1_hannah_brown_act4_3t7ucs,Game Night,S12-Game_night,hannah_brown,Female,46-50,0.119,-2.937,2.397,3.115,6.479,-0.3136,#e15759
+20231122_s1_harold_copeland_act1_suxmfb,Cooking,S7-Cooking,harold_copeland,Male,18-24,0.587,-9.565,3.56,4.613,8.632,0.2974,#4e79a7
+20231122_s1_harold_copeland_act2_k1ngjh,Housekeeping,S10-Housekeeping,harold_copeland,Male,18-24,0.123,-9.271,2.997,3.699,7.351,-0.2806,#f28e2b
+20231122_s1_harold_copeland_act3_tx1y5l,Searching,S2-Where_is_X,harold_copeland,Male,18-24,-0.228,-7.105,3.946,3.794,8.607,0.2405,#edc948
+20231122_s1_harold_copeland_act4_jxdyqy,Game Night,S12-Game_night,harold_copeland,Male,18-24,-0.198,-8.28,2.963,3.088,6.604,0.2819,#e15759
+20230628_s1_hayley_little_act0_z038r0,Game Night,S12-Game_night,hayley_little,Male,31-35,0.031,-7.764,3.286,3.523,7.55,0.3357,#e15759
+20230628_s1_hayley_little_act1_7s36pt,Workout,S5-Workout,hayley_little,Male,31-35,-0.974,-5.152,3.641,2.963,7.282,0.2114,#59a14f
+20230628_s1_hayley_little_act4_0sndzh,Searching,S2-Where_is_X,hayley_little,Male,31-35,0.62,-7.856,4.381,3.555,8.65,0.1956,#edc948
+20230609_s1_heather_becker_act0_pxfo7n,Game Night,S12-Game_night,heather_becker,Male,25-30,0.016,-7.792,3.348,3.134,7.083,0.0997,#e15759
+20230609_s1_heather_becker_act1_jkyybw,Relaxing,S1-Relax_at_home,heather_becker,Male,25-30,-2.604,-2.976,3.397,4.373,8.67,0.1953,#9c755f
+20231016_s0_holly_keller_act4_y8fier,Fresh Air,S19-Fresh_air,holly_keller,Male,18-24,-0.054,-4.572,3.749,4.308,9.038,-0.2558,#b07aa1
+20230714_s1_jacob_webb_act4_250tg7,Workout,S5-Workout,jacob_webb,Male,25-30,-0.491,-9.488,3.603,3.524,8.312,0.0252,#59a14f
+20231204_s0_jacqueline_brewer_act0_oz7jf1,Cooking,S7-Cooking,jacqueline_brewer,Female,25-30,-0.337,-8.218,3.976,4.249,9.117,0.01,#4e79a7
+20231204_s0_jacqueline_brewer_act1_u95ciq,Cooking,S7-Cooking,jacqueline_brewer,Female,25-30,-0.302,-7.527,4.232,4.171,8.79,0.2503,#4e79a7
+20231204_s0_jacqueline_brewer_act5_dp03vj,Searching,S2-Where_is_X,jacqueline_brewer,Female,25-30,-0.323,-4.037,5.081,4.193,10.307,-0.026,#edc948
+20230607_s0_james_johnson_act1_7xwm28,Relaxing,S1-Relax_at_home,james_johnson,Female,25-30,-0.721,-5.108,4.513,4.035,9.051,-0.0804,#9c755f
+20230607_s0_james_johnson_act2_yhbvpa,Fresh Air,S19-Fresh_air,james_johnson,Female,25-30,-0.644,-8.194,4.42,3.625,8.565,0.0977,#b07aa1
+20230607_s0_james_johnson_act3_ifj2gc,Game Night,S12-Game_night,james_johnson,Female,25-30,-1.784,-7.532,3.18,3.63,7.4,-0.1635,#e15759
+20231109_s0_janet_walsh_act1_ch667b,Cooking,S7-Cooking,janet_walsh,Male,36-40,0.417,-9.461,3.417,4.359,8.877,-0.2522,#4e79a7
+20231109_s0_janet_walsh_act2_yjr1qh,Game Night,S12-Game_night,janet_walsh,Male,36-40,0.054,-5.489,3.059,3.847,8.277,-0.0155,#e15759
+20231109_s0_janet_walsh_act3_1uklre,Housekeeping,S10-Housekeeping,janet_walsh,Male,36-40,-0.169,-8.111,2.918,5.555,9.913,-0.0582,#f28e2b
+20231109_s0_janet_walsh_act4_whrohp,Searching,S2-Where_is_X,janet_walsh,Male,36-40,-0.384,-6.315,4.277,4.511,9.321,-0.1872,#edc948
+20230717_s1_janice_lopez_act1_gfdrb1,Cooking,S7-Cooking,janice_lopez,Male,31-35,-1.226,-6.909,4.08,4.201,9.17,-0.0927,#4e79a7
+20230717_s1_janice_lopez_act2_2dvd3o,Workout,S5-Workout,janice_lopez,Male,31-35,-0.68,-5.304,4.908,3.13,8.804,-0.0935,#59a14f
+20230717_s1_janice_lopez_act3_ukd5l3,Meal,S8-Having_a_meal,janice_lopez,Male,31-35,-1.836,-6.897,4.703,4.156,9.847,-0.1208,#76b7b2
+20231031_s0_jason_brown_act0_zb36n0,Searching,S2-Where_is_X,jason_brown,Female,41-45,0.407,-3.183,2.086,1.671,4.551,-0.0844,#edc948
+20231031_s0_jason_brown_act3_2h0n5a,Cooking,S7-Cooking,jason_brown,Female,41-45,0.542,-10.009,2.907,4.561,8.145,0.13,#4e79a7
+20231031_s0_jason_brown_act4_v26yux,Fresh Air,S19-Fresh_air,jason_brown,Female,41-45,0.076,-4.013,2.298,2.606,6.173,-0.1422,#b07aa1
+20230612_s0_jason_smith_act1_vu03d2,Relaxing,S1-Relax_at_home,jason_smith,Male,31-35,0.403,-3.793,5.121,3.311,9.614,0.3142,#9c755f
+20230612_s0_jason_smith_act2_yf5id3,Meal,S8-Having_a_meal,jason_smith,Male,31-35,-0.658,-2.249,3.62,3.688,8.585,0.2914,#76b7b2
+20230612_s0_jason_smith_act3_c6na21,Fresh Air,S19-Fresh_air,jason_smith,Male,31-35,-0.145,-1.757,3.915,4.057,8.796,-0.0134,#b07aa1
+20230612_s0_jason_smith_act4_r35kbc,Game Night,S12-Game_night,jason_smith,Male,31-35,-0.697,-0.034,2.618,2.457,5.574,-0.1201,#e15759
+20230830_s0_jason_vaughn_act1_wjd3ye,Searching,S2-Where_is_X,jason_vaughn,Female,46-50,0.289,-4.901,4.157,2.952,7.681,0.0248,#edc948
+20230830_s0_jason_vaughn_act3_00fg0l,Cooking,S7-Cooking,jason_vaughn,Female,46-50,0.958,-6.608,2.958,2.823,6.286,0.244,#4e79a7
+20230830_s0_jason_vaughn_act4_f9z6jt,Game Night,S12-Game_night,jason_vaughn,Female,46-50,0.37,-8.697,2.353,2.516,5.528,0.1068,#e15759
+20230816_s1_jeffery_bryant_act2_3x9cx1,Game Night,S12-Game_night,jeffery_bryant,Male,31-35,0.442,-7.647,3.454,4.302,8.463,0.2131,#e15759
+20230816_s1_jeffery_bryant_act3_ln6bpy,Searching,S2-Where_is_X,jeffery_bryant,Male,31-35,0.317,-5.927,5.701,4.723,11.587,0.0229,#edc948
+20231215_s0_jeffrey_king_act0_af15s6,Cooking,S7-Cooking,jeffrey_king,Male,19-25,0.733,-5.612,3.472,4.301,8.43,0.093,#4e79a7
+20230824_s1_jenna_farmer_act0_xx0xn9,Meal,S8-Having_a_meal,jenna_farmer,Female,18-24,0.73,-7.387,3.763,5.478,9.525,-0.1483,#76b7b2
+20230824_s1_jenna_farmer_act1_q7ykv2,Cooking,S7-Cooking,jenna_farmer,Female,18-24,-0.537,-9.333,4.007,4.701,9.507,0.1644,#4e79a7
+20230824_s1_jenna_farmer_act2_k23z0y,Relaxing,S1-Relax_at_home,jenna_farmer,Female,18-24,2.275,-9.768,5.843,5.438,13.405,-0.2083,#9c755f
+20230803_s1_jennifer_sexton_act0_7joh8p,Cooking,S7-Cooking,jennifer_sexton,Female,18-24,0.101,-11.934,4.432,5.381,10.69,0.1364,#4e79a7
+20230803_s1_jennifer_sexton_act2_s5pwb5,Workout,S5-Workout,jennifer_sexton,Female,18-24,0.117,-9.95,4.801,3.846,10.178,0.2525,#59a14f
+20231214_s0_jeremy_allen_act4_hobxx4,Housekeeping,S10-Housekeeping,jeremy_allen,Male,18-24,1.542,-7.235,4.086,4.622,9.3,-0.2575,#f28e2b
+20230727_s1_jeremy_gill_act1_9zemc6,Housekeeping,S10-Housekeeping,jeremy_gill,Female,41-45,1.693,-9.363,4.694,3.91,9.691,0.0801,#f28e2b
+20230727_s1_jeremy_gill_act2_vuo0aj,Workout,S5-Workout,jeremy_gill,Female,41-45,0.947,-10.881,3.098,3.105,7.236,-0.2834,#59a14f
+20230727_s1_jeremy_gill_act4_8aq66y,Meal,S8-Having_a_meal,jeremy_gill,Female,41-45,0.84,-10.838,5.051,6.318,11.592,0.158,#76b7b2
+20230920_s0_jeremy_lewis_act0_2216ey,Meal,S8-Having_a_meal,jeremy_lewis,Male,36-40,0.902,-4.565,4.184,3.985,8.811,-0.2909,#76b7b2
+20230920_s0_jeremy_lewis_act3_s4dnih,Fresh Air,S19-Fresh_air,jeremy_lewis,Male,36-40,0.463,-3.925,3.713,3.329,7.924,0.3052,#b07aa1
+20231110_s1_jerry_shaffer_act1_f9viqk,Game Night,S12-Game_night,jerry_shaffer,Male,41-45,1.195,-4.194,3.762,3.319,7.662,-0.2538,#e15759
+20231110_s1_jerry_shaffer_act2_295gtc,Housekeeping,S10-Housekeeping,jerry_shaffer,Male,41-45,1.159,-7.155,3.506,3.407,7.643,0.3212,#f28e2b
+20231110_s1_jerry_shaffer_act3_051bbw,Cooking,S7-Cooking,jerry_shaffer,Male,41-45,0.402,-5.955,2.991,3.006,6.361,0.2106,#4e79a7
+20231110_s1_jerry_shaffer_act4_gy8vgr,Searching,S2-Where_is_X,jerry_shaffer,Male,41-45,0.354,-4.45,4.114,3.028,7.893,0.0656,#edc948
+20230919_s1_jessica_webster_act3_sry5zc,Fresh Air,S19-Fresh_air,jessica_webster,Female,25-30,0.862,-6.774,3.373,4.263,8.27,0.1978,#b07aa1
+20230727_s0_joanne_white_act0_dcujfb,Cooking,S7-Cooking,joanne_white,Female,41-45,0.391,-3.853,3.513,3.533,7.614,0.2066,#4e79a7
+20230727_s0_joanne_white_act1_5cv2fd,Relaxing,S1-Relax_at_home,joanne_white,Female,41-45,-0.484,0.924,2.704,4.075,8.411,0.3122,#9c755f
+20230727_s0_joanne_white_act4_o6oirh,Searching,S2-Where_is_X,joanne_white,Female,41-45,0.473,-5.518,3.835,3.276,7.477,-0.1726,#edc948
+20231207_s0_jodi_morrison_act1_fy6dbk,Cooking,S7-Cooking,jodi_morrison,Female,31-35,-0.206,-9.222,3.991,3.775,8.56,0.0631,#4e79a7
+20230908_s0_joel_anderson_act1_qpe9b0,Searching,S2-Where_is_X,joel_anderson,Male,25-30,-0.321,-4.661,5.242,4.046,9.759,-0.2835,#edc948
+20230908_s0_joel_anderson_act2_cfyj2k,Housekeeping,S10-Housekeeping,joel_anderson,Male,25-30,-0.167,-6.864,4.801,4.324,9.722,0.0813,#f28e2b
+20230908_s0_joel_anderson_act3_4lnd3h,Cooking,S7-Cooking,joel_anderson,Male,25-30,-0.812,-7.383,4.512,4.829,9.898,-0.2301,#4e79a7
+20230908_s0_joel_anderson_act4_b695jn,Game Night,S12-Game_night,joel_anderson,Male,25-30,0.685,-6.339,3.087,3.354,7.43,0.0455,#e15759
+20230622_s0_john_solomon_act0_0vq3nd,Searching,S2-Where_is_X,john_solomon,Male,31-35,-0.219,-5.459,3.896,3.272,7.766,0.0507,#edc948
+20230622_s0_john_solomon_act2_8urygm,Workout,S5-Workout,john_solomon,Male,31-35,1.254,-3.64,3.9,3.229,7.804,-0.0238,#59a14f
+20230718_s1_john_williams_act0_bh2eua,Housekeeping,S10-Housekeeping,john_williams,Female,36-40,-0.773,-8.976,4.553,4.235,9.365,0.0158,#f28e2b
+20230718_s1_john_williams_act3_noz9v2,Game Night,S12-Game_night,john_williams,Female,36-40,-0.895,-9.46,3.802,4.201,8.765,0.1847,#e15759
+20230718_s1_john_williams_act4_gv55cd,Searching,S2-Where_is_X,john_williams,Female,36-40,-0.886,-9.69,4.939,4.037,9.573,0.2095,#edc948
+20231012_s1_johnathan_good_act0_jph686,Cooking,S7-Cooking,johnathan_good,Female,31-35,-0.439,-5.967,4.886,3.854,9.606,-0.0055,#4e79a7
+20231012_s1_johnathan_good_act2_l2titp,Fresh Air,S19-Fresh_air,johnathan_good,Female,31-35,-0.263,-6.109,3.678,4.699,9.637,0.0697,#b07aa1
+20231012_s1_johnathan_good_act3_r33pvo,Cooking,S7-Cooking,johnathan_good,Female,31-35,-0.777,-8.126,3.183,3.956,8.243,0.3019,#4e79a7
+20231012_s1_johnathan_good_act4_jvtyeo,Game Night,S12-Game_night,johnathan_good,Female,31-35,0.274,-6.057,3.803,4.06,8.791,-0.2662,#e15759
+20230703_s1_joshua_burke_act0_7lh1ls,Relaxing,S1-Relax_at_home,joshua_burke,Female,31-35,-1.476,-11.643,4.333,6.677,11.712,-0.268,#9c755f
+20230703_s1_joshua_burke_act4_hbjy19,Searching,S2-Where_is_X,joshua_burke,Female,31-35,-1.321,-9.251,4.697,5.101,10.6,-0.2886,#edc948
+20230822_s1_joshua_rice_act3_mw83hw,Relaxing,S1-Relax_at_home,joshua_rice,Male,18-24,-0.36,-4.648,4.387,5.48,10.654,0.1105,#9c755f
+20230822_s1_joshua_rice_act4_nud8gw,Game Night,S12-Game_night,joshua_rice,Male,18-24,-1.823,-7.003,3.411,4.396,8.706,-0.057,#e15759
+20231101_s0_joshua_smith_act0_9obbs3,Searching,S2-Where_is_X,joshua_smith,Female,36-40,-0.373,-3.41,1.084,1.17,2.458,0.192,#edc948
+20231101_s0_joshua_smith_act2_pmfjzl,Housekeeping,S10-Housekeeping,joshua_smith,Female,36-40,-0.161,-3.496,0.875,1.049,1.921,0.1199,#f28e2b
+20231101_s0_joshua_smith_act3_xl7p9n,Searching,S2-Where_is_X,joshua_smith,Female,36-40,-0.367,-3.254,1.918,1.642,3.93,-0.1165,#edc948
+20231101_s0_joshua_smith_act4_3y5iik,Cooking,S7-Cooking,joshua_smith,Female,36-40,-0.445,-4.872,1.262,1.818,3.311,0.2789,#4e79a7
+20230623_s1_joshua_thompson_act0_nbqvca,Housekeeping,S10-Housekeeping,joshua_thompson,Male,36-40,-0.138,-7.067,4.136,4.288,9.05,0.1838,#f28e2b
+20230623_s1_joshua_thompson_act2_v4el6f,Game Night,S12-Game_night,joshua_thompson,Male,36-40,0.298,-7.294,3.612,3.937,7.853,-0.1606,#e15759
+20230725_s1_julie_taylor_act0_o75254,Cooking,S7-Cooking,julie_taylor,Female,36-40,-0.31,-8.619,4.796,5.384,11.115,-0.0951,#4e79a7
+20230725_s1_julie_taylor_act1_ken21c,Housekeeping,S10-Housekeeping,julie_taylor,Female,36-40,-0.778,-9.563,5.278,5.834,11.984,-0.1299,#f28e2b
+20230725_s1_julie_taylor_act4_iemk0l,Searching,S2-Where_is_X,julie_taylor,Female,36-40,-0.849,-6.697,5.633,4.293,10.793,-0.2397,#edc948
+20230724_s1_justin_heath_act4_zdlau3,Searching,S2-Where_is_X,justin_heath,Female,36-40,1.24,-4.436,4.103,3.938,8.741,-0.2466,#edc948
+20231212_s1_justin_jackson_act1_q1vpto,Cooking,S7-Cooking,justin_jackson,Female,25-30,0.463,-7.999,4.241,4.762,9.852,0.3053,#4e79a7
+20230921_s0_justin_martin_act3_7zbeca,Fresh Air,S19-Fresh_air,justin_martin,Female,36-40,0.845,-4.335,1.962,3.126,6.333,-0.0435,#b07aa1
+20231116_s1_justin_ramirez_act0_b6dgmp,Cooking,S7-Cooking,justin_ramirez,Female,46-50,0.501,-9.732,4.013,4.396,9.144,-0.0817,#4e79a7
+20231116_s1_justin_ramirez_act2_vnmh36,Searching,S2-Where_is_X,justin_ramirez,Female,46-50,0.802,-5.075,4.502,4.201,9.227,0.1608,#edc948
+20231218_s1_kathryn_pruitt_act0_2nxprf,Cooking,S7-Cooking,kathryn_pruitt,Male,18-24,0.108,-8.704,3.554,2.844,7.513,0.0371,#4e79a7
+20231218_s1_kathryn_pruitt_act1_kfh278,Cooking,S7-Cooking,kathryn_pruitt,Male,18-24,0.3,-9.342,4.32,3.648,9.138,0.3053,#4e79a7
+20231207_s1_katie_white_act1_yanshd,Cooking,S7-Cooking,katie_white,Female,25-30,0.54,-12.629,4.853,5.238,11.227,0.1962,#4e79a7
+20231207_s1_katie_white_act6_9temus,Housekeeping,S10-Housekeeping,katie_white,Female,25-30,0.466,-8.555,5.001,4.632,10.728,-0.0144,#f28e2b
+20230828_s0_kaylee_johnson_act1_svrk6s,Relaxing,S1-Relax_at_home,kaylee_johnson,Male,18-24,-1.937,-4.027,5.295,4.123,11.131,-0.0865,#9c755f
+20230828_s0_kaylee_johnson_act2_2ew9cq,Game Night,S12-Game_night,kaylee_johnson,Male,18-24,-0.593,-6.103,3.168,2.048,6.006,0.3406,#e15759
+20230828_s0_kaylee_johnson_act3_45ge62,Cooking,S7-Cooking,kaylee_johnson,Male,18-24,-0.977,-10.114,3.409,5.347,10.944,0.1524,#4e79a7
+20231222_s1_kenneth_fischer_act0_og02e0,Cooking,S7-Cooking,kenneth_fischer,Male,31-35,-0.553,-8.675,3.461,5.101,9.203,0.3158,#4e79a7
+20231222_s1_kenneth_fischer_act1_wxnaof,Cooking,S7-Cooking,kenneth_fischer,Male,31-35,-0.516,-7.612,3.882,4.961,9.376,-0.2671,#4e79a7
+20231222_s1_kenneth_fischer_act5_osievi,Game Night,S12-Game_night,kenneth_fischer,Male,31-35,-0.295,-5.087,3.943,4.454,8.841,0.2454,#e15759
+20231222_s1_kenneth_fischer_act6_kbpn0q,Housekeeping,S10-Housekeeping,kenneth_fischer,Male,31-35,0.133,-7.551,3.947,4.396,8.928,0.096,#f28e2b
+20230621_s1_kevin_davis_act0_b3fcsx,Housekeeping,S10-Housekeeping,kevin_davis,Female,25-30,-0.385,-4.304,4.509,3.492,8.557,-0.2647,#f28e2b
+20230621_s1_kevin_davis_act2_1aywrw,Game Night,S12-Game_night,kevin_davis,Female,25-30,-0.841,-5.383,3.37,3.152,7.367,0.0618,#e15759
+20230621_s1_kevin_davis_act3_bw8qui,Workout,S5-Workout,kevin_davis,Female,25-30,-0.881,-1.778,3.831,3.184,7.983,0.1303,#59a14f
+20230918_s0_kevin_shaw_act0_a64she,Meal,S8-Having_a_meal,kevin_shaw,Male,36-40,0.588,-5.983,4.059,3.782,8.538,-0.3414,#76b7b2
+20230918_s0_kevin_shaw_act3_sse885,Fresh Air,S19-Fresh_air,kevin_shaw,Male,36-40,0.253,-6.594,4.017,4.46,9.332,-0.032,#b07aa1
+20230824_s0_kim_wilkins_act0_ymr6tw,Cooking,S7-Cooking,kim_wilkins,Female,46-50,-0.806,-8.216,4.146,4.155,9.127,0.2278,#4e79a7
+20230824_s0_kim_wilkins_act4_vkjf3l,Game Night,S12-Game_night,kim_wilkins,Female,46-50,-0.29,-10.595,3.295,4.383,8.543,-0.1432,#e15759
+20231006_s1_kirk_flowers_act0_hfjvo9,Searching,S2-Where_is_X,kirk_flowers,Male,18-24,0.166,-9.002,4.869,5.101,10.545,-0.029,#edc948
+20231006_s1_kirk_flowers_act2_lx53pr,Game Night,S12-Game_night,kirk_flowers,Male,18-24,-0.018,-5.727,3.72,4.131,8.687,-0.0404,#e15759
+20231006_s1_kirk_flowers_act4_62iape,Fresh Air,S19-Fresh_air,kirk_flowers,Male,18-24,-0.193,-6.373,3.454,5.006,9.611,-0.1387,#b07aa1
+20230616_s0_kristen_thomas_act0_5edc0f,Relaxing,S1-Relax_at_home,kristen_thomas,Male,31-35,1.945,-3.198,2.72,3.254,6.955,0.2929,#9c755f
+20230616_s0_kristen_thomas_act1_2wxfud,Searching,S2-Where_is_X,kristen_thomas,Male,31-35,0.361,-4.638,4.282,3.619,8.67,0.1969,#edc948
+20231108_s1_kurt_young_act1_59wzpq,Game Night,S12-Game_night,kurt_young,Male,46-50,-1.002,-7.005,4.094,3.356,8.628,-0.2726,#e15759
+20231108_s1_kurt_young_act2_g8p6we,Housekeeping,S10-Housekeeping,kurt_young,Male,46-50,-0.264,-9.684,4.501,4.914,9.866,0.3479,#f28e2b
+20231108_s1_kurt_young_act3_hfomju,Searching,S2-Where_is_X,kurt_young,Male,46-50,-1.923,-4.137,5.101,3.382,9.16,0.2654,#edc948
+20231108_s1_kurt_young_act4_t5o4jk,Fresh Air,S19-Fresh_air,kurt_young,Male,46-50,-1.262,-5.309,4.617,3.946,9.433,-0.1513,#b07aa1
+20230822_s0_kyle_parker_act2_y3l7lv,Housekeeping,S10-Housekeeping,kyle_parker,Female,18-24,-1.024,-10.368,4.142,5.802,10.505,0.2358,#f28e2b
+20230822_s0_kyle_parker_act4_dqa50g,Relaxing,S1-Relax_at_home,kyle_parker,Female,18-24,0.366,-4.254,4.347,5.011,10.359,-0.2755,#9c755f
+20231002_s1_larry_thompson_act0_ypjx1g,Searching,S2-Where_is_X,larry_thompson,Female,25-30,1.054,-7.074,5.217,4.765,10.871,0.3494,#edc948
+20231002_s1_larry_thompson_act2_oyamz7,Searching,S2-Where_is_X,larry_thompson,Female,25-30,1.144,-8.175,5.326,4.642,10.594,0.116,#edc948
+20231002_s1_larry_thompson_act3_lj6ene,Game Night,S12-Game_night,larry_thompson,Female,25-30,1.022,-8.431,4.466,5.365,10.813,0.1051,#e15759
+20231002_s1_larry_thompson_act4_fi6ia3,Cooking,S7-Cooking,larry_thompson,Female,25-30,0.138,-10.378,4.647,5.9,11.089,-0.2867,#4e79a7
+20230809_s1_laura_smith_act3_6luckz,Workout,S5-Workout,laura_smith,Female,36-40,-0.809,-10.155,3.578,3.856,8.474,0.2779,#59a14f
+20230712_s0_laura_wilson_act4_spkfqq,Workout,S5-Workout,laura_wilson,Female,25-30,-0.699,-8.153,3.918,3.486,8.557,-0.3297,#59a14f
+20230728_s0_lauren_mayer_act0_wv6a30,Meal,S8-Having_a_meal,lauren_mayer,Female,18-24,0.463,-9.715,4.429,7.097,12.053,-0.1814,#76b7b2
+20230728_s0_lauren_mayer_act1_8hf4dv,Housekeeping,S10-Housekeeping,lauren_mayer,Female,18-24,-0.417,-11.629,4.653,6.274,11.727,-0.2499,#f28e2b
+20230728_s0_lauren_mayer_act2_8nao6y,Relaxing,S1-Relax_at_home,lauren_mayer,Female,18-24,0.159,-2.863,3.154,4.336,9.031,0.1937,#9c755f
+20230728_s0_lauren_mayer_act3_m63vl0,Searching,S2-Where_is_X,lauren_mayer,Female,18-24,-0.187,-6.457,4.903,4.482,10.365,-0.2113,#edc948
+20230728_s0_lauren_mayer_act4_p65q7g,Game Night,S12-Game_night,lauren_mayer,Female,18-24,-1.321,-7.53,3.192,3.55,7.64,0.2874,#e15759
+20230814_s0_leah_gaines_act1_4u9p3x,Relaxing,S1-Relax_at_home,leah_gaines,Male,36-40,-0.648,-4.867,3.533,4.121,9.813,0.1094,#9c755f
+20230814_s0_leah_gaines_act4_6up73n,Game Night,S12-Game_night,leah_gaines,Male,36-40,1.696,-7.252,2.067,2.886,5.687,-0.3247,#e15759
+20230630_s1_linda_coleman_act0_qqfupk,Meal,S8-Having_a_meal,linda_coleman,Female,25-30,-1.125,-6.569,4.373,6.024,11.276,-0.3462,#76b7b2
+20230630_s1_linda_coleman_act4_3yy1gt,Housekeeping,S10-Housekeeping,linda_coleman,Female,25-30,-0.259,-6.276,3.959,4.817,9.345,-0.3138,#f28e2b
+20230815_s1_lisa_colon_act1_0skqwz,Workout,S5-Workout,lisa_colon,Female,36-40,0.025,-4.604,4.24,3.971,9.442,0.0741,#59a14f
+20230815_s1_lisa_colon_act4_9e2tlp,Housekeeping,S10-Housekeeping,lisa_colon,Female,36-40,-0.336,-6.687,3.942,2.952,7.465,0.211,#f28e2b
+20231114_s1_logan_walton_act0_0k3g2z,Cooking,S7-Cooking,logan_walton,Male,46-50,0.735,-6.358,3.382,3.257,7.211,-0.183,#4e79a7
+20231114_s1_logan_walton_act2_u3sqfr,Housekeeping,S10-Housekeeping,logan_walton,Male,46-50,-0.661,-6.895,4.097,4.23,8.94,0.2446,#f28e2b
+20231114_s1_logan_walton_act4_842wcd,Game Night,S12-Game_night,logan_walton,Male,46-50,-0.912,-6.22,3.486,4.068,8.509,-0.3099,#e15759
+20231114_s1_logan_walton_act5_jvyusp,Searching,S2-Where_is_X,logan_walton,Male,46-50,-0.072,-5.108,5.049,3.91,9.526,0.2107,#edc948
+20231114_s1_logan_walton_act6_xrp2n5,Fresh Air,S19-Fresh_air,logan_walton,Male,46-50,-1.593,-4.32,3.35,3.744,8.026,0.2995,#b07aa1
+20231013_s1_lucas_flores_act0_fh8eql,Searching,S2-Where_is_X,lucas_flores,Female,31-35,-0.758,-8.134,4.001,3.497,7.883,0.1905,#edc948
+20231013_s1_lucas_flores_act2_61d758,Fresh Air,S19-Fresh_air,lucas_flores,Female,31-35,0.142,-6.267,2.823,3.526,7.154,0.1387,#b07aa1
+20231013_s1_lucas_flores_act3_wnze07,Cooking,S7-Cooking,lucas_flores,Female,31-35,-0.444,-9.822,3.076,4.16,7.766,0.2366,#4e79a7
+20231013_s1_lucas_flores_act4_j0mhhv,Game Night,S12-Game_night,lucas_flores,Female,31-35,-0.013,-7.551,3.62,3.945,7.993,-0.3219,#e15759
+20230907_s0_margaret_mccormick_act1_rwed0h,Searching,S2-Where_is_X,margaret_mccormick,Male,18-24,-0.138,-8.513,4.42,4.112,8.909,-0.2088,#edc948
+20230907_s0_margaret_mccormick_act3_zra054,Cooking,S7-Cooking,margaret_mccormick,Male,18-24,0.026,-10.773,3.635,4.586,8.961,-0.2626,#4e79a7
+20230907_s0_margaret_mccormick_act4_s9mmh0,Game Night,S12-Game_night,margaret_mccormick,Male,18-24,-0.758,-8.82,2.914,3.241,7.279,0.0032,#e15759
+20230711_s1_maria_duran_act1_8ighm1,Cooking,S7-Cooking,maria_duran,Male,31-35,0.068,-9.582,3.992,4.756,10.255,0.1716,#4e79a7
+20230620_s0_marie_vasquez_act0_5vd9yy,Relaxing,S1-Relax_at_home,marie_vasquez,Male,36-40,-1.766,-1.911,3.111,3.303,7.691,0.091,#9c755f
+20230620_s0_marie_vasquez_act3_9fyaun,Cooking,S7-Cooking,marie_vasquez,Male,36-40,-1.696,-3.999,3.943,3.265,7.945,0.2458,#4e79a7
+20230726_s0_mark_richardson_act0_rfwgbe,Cooking,S7-Cooking,mark_richardson,Female,36-40,-0.127,-3.692,3.23,2.573,6.442,-0.2414,#4e79a7
+20230726_s0_mark_richardson_act1_66k6jp,Meal,S8-Having_a_meal,mark_richardson,Female,36-40,-0.005,-3.844,3.028,3.041,6.976,0.1642,#76b7b2
+20230726_s0_mark_richardson_act3_7pofe2,Searching,S2-Where_is_X,mark_richardson,Female,36-40,-0.456,-4.218,3.524,2.865,7.166,-0.2149,#edc948
+20230726_s0_mark_richardson_act4_bao59g,Game Night,S12-Game_night,mark_richardson,Female,36-40,-0.605,-6.232,3.202,3.338,7.405,-0.1605,#e15759
+20231130_s1_mary_barker_act0_v5jpt3,Housekeeping,S10-Housekeeping,mary_barker,Male,25-30,0.415,-7.362,3.908,4.195,8.834,0.1469,#f28e2b
+20231130_s1_mary_barker_act1_pkk8nb,Cooking,S7-Cooking,mary_barker,Male,25-30,0.731,-8.391,3.817,4.096,8.875,0.3361,#4e79a7
+20231130_s1_mary_barker_act3_i1lsvk,Searching,S2-Where_is_X,mary_barker,Male,25-30,0.346,-5.111,4.809,3.567,9.353,0.0781,#edc948
+20230907_s1_mary_cook_act1_hgs3yt,Searching,S2-Where_is_X,mary_cook,Male,36-40,1.084,-7.087,4.929,3.912,9.615,-0.3118,#edc948
+20230907_s1_mary_cook_act2_3nxql3,Housekeeping,S10-Housekeeping,mary_cook,Male,36-40,0.415,-9.137,3.722,3.841,8.408,0.0814,#f28e2b
+20230816_s0_mary_ortiz_act0_5nkmtn,Relaxing,S1-Relax_at_home,mary_ortiz,Male,46-50,-5.228,-3.539,5.097,3.388,9.01,-0.3204,#9c755f
+20230816_s0_mary_ortiz_act1_iw5z7u,Game Night,S12-Game_night,mary_ortiz,Male,46-50,-0.076,-7.872,4.333,3.923,8.607,0.2689,#e15759
+20230816_s0_mary_ortiz_act2_c3xkh3,Searching,S2-Where_is_X,mary_ortiz,Male,46-50,-0.8,-4.388,5.32,4.005,10.15,0.1467,#edc948
+20230614_s1_matthew_harper_act0_e1qur5,Relaxing,S1-Relax_at_home,matthew_harper,Male,18-24,-0.55,-2.821,2.859,3.692,7.654,-0.2288,#9c755f
+20230614_s1_matthew_harper_act1_cimupu,Searching,S2-Where_is_X,matthew_harper,Male,18-24,-0.374,-5.422,4.956,4.681,10.025,-0.2858,#edc948
+20230926_s1_megan_mejia_act0_p68k3m,Meal,S8-Having_a_meal,megan_mejia,Male,18-24,0.831,-6.212,3.192,5.239,8.522,-0.2215,#76b7b2
+20230926_s1_megan_mejia_act4_qfzkks,Fresh Air,S19-Fresh_air,megan_mejia,Male,18-24,-0.081,-4.64,3.32,3.391,7.825,0.336,#b07aa1
+20231128_s1_michael_vargas_act0_yvskcx,Searching,S2-Where_is_X,michael_vargas,Female,36-40,0.226,-2.235,4.777,4.169,9.563,-0.029,#edc948
+20231128_s1_michael_vargas_act2_16jyco,Fresh Air,S19-Fresh_air,michael_vargas,Female,36-40,-0.474,-0.99,3.323,4.375,8.849,0.1989,#b07aa1
+20231128_s1_michael_vargas_act3_yhtokg,Game Night,S12-Game_night,michael_vargas,Female,36-40,-0.52,-7.313,3.204,3.86,7.788,0.0955,#e15759
+20231128_s1_michael_vargas_act4_nrf2pr,Housekeeping,S10-Housekeeping,michael_vargas,Female,36-40,-0.47,-6.302,4.003,3.46,8.016,0.0507,#f28e2b
+20230721_s0_mitchell_mcdonald_act0_7q34xb,Housekeeping,S10-Housekeeping,mitchell_mcdonald,Male,25-30,0.636,-5.789,4.743,4.782,10.179,-0.2484,#f28e2b
+20230721_s0_mitchell_mcdonald_act3_k11m1g,Relaxing,S1-Relax_at_home,mitchell_mcdonald,Male,25-30,1.98,-2.29,3.924,3.987,8.912,0.3122,#9c755f
+20230721_s0_mitchell_mcdonald_act4_mq1a2s,Workout,S5-Workout,mitchell_mcdonald,Male,25-30,1.683,-4.239,5.989,4.139,11.017,-0.1391,#59a14f
+20230706_s1_morgan_terrell_act3_9ops7e,Relaxing,S1-Relax_at_home,morgan_terrell,Female,36-40,-0.852,-5.072,3.843,4.864,9.391,0.0546,#9c755f
+20231106_s0_nancy_david_act0_bgmt5f,Searching,S2-Where_is_X,nancy_david,Female,18-24,-0.65,-4.613,5.288,3.919,10.171,0.1398,#edc948
+20231106_s0_nancy_david_act2_ixtgby,Housekeeping,S10-Housekeeping,nancy_david,Female,18-24,-0.611,-7.371,4.589,4.734,10.339,0.1045,#f28e2b
+20231106_s0_nancy_david_act3_y0kb4w,Cooking,S7-Cooking,nancy_david,Female,18-24,-0.277,-7.079,4.813,4.669,10.625,0.3084,#4e79a7
+20231106_s0_nancy_david_act4_7cwi7y,Game Night,S12-Game_night,nancy_david,Female,18-24,-0.258,-5.329,4.379,3.707,8.968,-0.2461,#e15759
+20231108_s0_nicholas_hicks_act0_g5hz4p,Cooking,S7-Cooking,nicholas_hicks,Male,31-35,-0.351,-9.51,4.666,5.65,11.372,0.0058,#4e79a7
+20231108_s0_nicholas_hicks_act2_fuuo13,Housekeeping,S10-Housekeeping,nicholas_hicks,Male,31-35,0.109,-7.586,4.397,4.714,9.951,-0.0672,#f28e2b
+20231108_s0_nicholas_hicks_act4_fga6of,Game Night,S12-Game_night,nicholas_hicks,Male,31-35,0.247,-7.278,4.417,5.608,11.301,-0.0181,#e15759
+20230828_s1_omar_patterson_act1_jtvh4v,Game Night,S12-Game_night,omar_patterson,Male,18-24,-0.017,-12.41,2.749,4.006,7.957,-0.2665,#e15759
+20230828_s1_omar_patterson_act2_qvj1is,Searching,S2-Where_is_X,omar_patterson,Male,18-24,0.518,-8.193,4.077,4.567,9.435,-0.2561,#edc948
+20230828_s1_omar_patterson_act4_seazrw,Housekeeping,S10-Housekeeping,omar_patterson,Male,18-24,0.288,-5.298,3.367,3.603,7.549,-0.1553,#f28e2b
+20230906_s0_pam_nelson_act1_qihxej,Searching,S2-Where_is_X,pam_nelson,Male,36-40,-0.604,-5.551,4.839,4.147,9.854,-0.1367,#edc948
+20230906_s0_pam_nelson_act3_0b72qt,Cooking,S7-Cooking,pam_nelson,Male,36-40,-0.248,-7.182,3.24,3.33,7.789,-0.0505,#4e79a7
+20230906_s0_pam_nelson_act4_6st6k5,Game Night,S12-Game_night,pam_nelson,Male,36-40,-0.169,-7.633,3.24,3.538,7.858,0.0777,#e15759
+20231113_s0_patricia_gutierrez_act2_c993gv,Housekeeping,S10-Housekeeping,patricia_gutierrez,Male,25-30,0.746,-7.171,4.023,4.784,9.741,0.0942,#f28e2b
+20231113_s0_patricia_gutierrez_act3_0fk89s,Meal,S8-Having_a_meal,patricia_gutierrez,Male,25-30,-0.95,-6.542,4.45,5.026,10.457,-0.0617,#76b7b2
+20231113_s0_patricia_gutierrez_act4_ifc9zd,Searching,S2-Where_is_X,patricia_gutierrez,Male,25-30,0.065,-7.861,3.885,4.416,9.327,-0.0639,#edc948
+20231113_s0_patricia_gutierrez_act5_swxtds,Fresh Air,S19-Fresh_air,patricia_gutierrez,Male,25-30,0.134,-6.739,4.366,4.611,9.989,-0.1977,#b07aa1
+20231009_s1_patrick_hall_act0_mow3jx,Searching,S2-Where_is_X,patrick_hall,Female,25-30,-0.011,-4.517,4.836,4.274,9.64,0.0618,#edc948
+20231009_s1_patrick_hall_act2_a92orm,Searching,S2-Where_is_X,patrick_hall,Female,25-30,0.313,-5.277,4.239,3.814,8.493,-0.1281,#edc948
+20231009_s1_patrick_hall_act3_i0pz1j,Cooking,S7-Cooking,patrick_hall,Female,25-30,-1.064,-6.92,3.87,4.007,8.878,-0.3248,#4e79a7
+20231009_s1_patrick_hall_act4_m3hjzg,Game Night,S12-Game_night,patrick_hall,Female,25-30,-0.259,-6.526,3.353,3.572,8.084,-0.0571,#e15759
+20231212_s0_paul_arellano_act0_xa04m4,Cooking,S7-Cooking,paul_arellano,Male,25-30,-0.187,-7.366,3.641,4.568,9.061,-0.0181,#4e79a7
+20231212_s0_paul_arellano_act1_t2fpwg,Cooking,S7-Cooking,paul_arellano,Male,25-30,-0.259,-7.195,4.297,4.622,9.449,-0.1921,#4e79a7
+20231212_s0_paul_arellano_act6_nlixhz,Housekeeping,S10-Housekeeping,paul_arellano,Male,25-30,0.506,-8.445,3.289,4.829,9.126,0.0507,#f28e2b
+20231212_s0_paul_arellano_act7_z9zohs,Game Night,S12-Game_night,paul_arellano,Male,25-30,0.218,-8.829,3.28,4.369,8.903,0.046,#e15759
+20231128_s0_paul_nguyen_act0_3iqj71,Cooking,S7-Cooking,paul_nguyen,Male,18-24,0.013,-6.288,4.443,4.896,10.075,0.1414,#4e79a7
+20231128_s0_paul_nguyen_act1_5i49b8,Searching,S2-Where_is_X,paul_nguyen,Male,18-24,-0.155,-4.209,4.615,3.634,9.046,0.1036,#edc948
+20231128_s0_paul_nguyen_act2_thvxg9,Housekeeping,S10-Housekeeping,paul_nguyen,Male,18-24,0.52,-6.594,4.636,4.657,9.852,0.1067,#f28e2b
+20231128_s0_paul_nguyen_act3_130qtq,Game Night,S12-Game_night,paul_nguyen,Male,18-24,0.758,-5.42,3.248,3.843,7.823,-0.1287,#e15759
+20230922_s0_philip_morales_act0_f6ywde,Meal,S8-Having_a_meal,philip_morales,Female,31-35,0.097,-3.304,3.452,3.199,6.958,0.2012,#76b7b2
+20230922_s0_philip_morales_act3_qqo2nq,Fresh Air,S19-Fresh_air,philip_morales,Female,31-35,0.311,-3.598,2.561,2.427,5.325,0.0344,#b07aa1
+20231219_s0_randall_love_act0_ifqvip,Cooking,S7-Cooking,randall_love,Female,31-35,-0.464,-5.6,2.209,2.198,4.911,-0.048,#4e79a7
+20231219_s0_randall_love_act1_o6on0u,Cooking,S7-Cooking,randall_love,Female,31-35,-0.558,-5.877,2.038,1.918,4.459,0.0882,#4e79a7
+20231219_s0_randall_love_act2_nwllyf,Meal,S8-Having_a_meal,randall_love,Female,31-35,-0.606,-5.699,2.3,2.512,5.142,-0.0975,#76b7b2
+20231219_s0_randall_love_act5_31go5x,Housekeeping,S10-Housekeeping,randall_love,Female,31-35,0.538,-8.938,3.961,4.536,9.546,0.0089,#f28e2b
+20231117_s0_randy_martin_act1_uwz691,Cooking,S7-Cooking,randy_martin,Female,31-35,1.25,-10.161,2.327,4.47,8.348,0.1657,#4e79a7
+20231117_s0_randy_martin_act2_h0cgyy,Housekeeping,S10-Housekeeping,randy_martin,Female,31-35,-0.212,-6.848,2.248,4.762,7.553,0.2705,#f28e2b
+20231117_s0_randy_martin_act3_unetns,Searching,S2-Where_is_X,randy_martin,Female,31-35,0.181,-7.779,3.509,4.074,8.042,0.2947,#edc948
+20231117_s0_randy_martin_act4_hernaf,Fresh Air,S19-Fresh_air,randy_martin,Female,31-35,0.229,-9.37,2.783,5.347,9.276,0.0025,#b07aa1
+20230829_s0_ray_humphrey_act1_24twv4,Searching,S2-Where_is_X,ray_humphrey,Male,18-24,-0.801,-2.04,4.097,2.842,7.998,0.0142,#edc948
+20230829_s0_ray_humphrey_act3_2xl28v,Cooking,S7-Cooking,ray_humphrey,Male,18-24,-0.11,-4.04,3.133,3.598,7.041,0.2099,#4e79a7
+20230829_s0_ray_humphrey_act4_7lkmhe,Game Night,S12-Game_night,ray_humphrey,Male,18-24,-0.768,-2.778,2.487,2.4,5.216,-0.1299,#e15759
+20230817_s1_rebecca_ward_act0_jwnzwk,Housekeeping,S10-Housekeeping,rebecca_ward,Male,46-50,-0.098,-6.721,4.072,3.891,8.702,0.2362,#f28e2b
+20230817_s1_rebecca_ward_act2_39a7o2,Workout,S5-Workout,rebecca_ward,Male,46-50,0.126,-3.513,3.87,2.946,7.818,-0.0041,#59a14f
+20230817_s1_rebecca_ward_act3_90saig,Meal,S8-Having_a_meal,rebecca_ward,Male,46-50,-0.161,-5.491,2.904,2.759,7.01,-0.2689,#76b7b2
+20230915_s0_richard_gallegos_act3_xgv2kx,Fresh Air,S19-Fresh_air,richard_gallegos,Female,25-30,0.255,-7.469,4.008,4.95,9.687,-0.2996,#b07aa1
+20230720_s0_robert_ballard_act1_kdpfj8,Searching,S2-Where_is_X,robert_ballard,Male,31-35,0.238,-7.11,4.371,4.535,9.531,0.2394,#edc948
+20230720_s0_robert_ballard_act2_qf6btf,Cooking,S7-Cooking,robert_ballard,Male,31-35,0.379,-10.542,3.703,4.41,9.481,-0.3111,#4e79a7
+20230720_s0_robert_ballard_act3_4j92fn,Meal,S8-Having_a_meal,robert_ballard,Male,31-35,0.337,-10.066,4.769,6.663,11.551,-0.1536,#76b7b2
+20230803_s0_robert_howard_act1_bs6pug,Cooking,S7-Cooking,robert_howard,Female,31-35,-0.758,-10.577,4.03,5.274,9.919,-0.1161,#4e79a7
+20231127_s1_robyn_blackburn_act0_tzq7vv,Cooking,S7-Cooking,robyn_blackburn,Male,25-30,0.236,-3.688,4.388,3.705,8.897,-0.2289,#4e79a7
+20231127_s1_robyn_blackburn_act1_9uhvnc,Cooking,S7-Cooking,robyn_blackburn,Male,25-30,0.244,-6.112,3.818,3.603,8.503,-0.1303,#4e79a7
+20231127_s1_robyn_blackburn_act2_0d50c2,Searching,S2-Where_is_X,robyn_blackburn,Male,25-30,0.272,-2.255,5.572,3.653,10.178,0.1699,#edc948
+20231127_s1_robyn_blackburn_act3_t4abeq,Game Night,S12-Game_night,robyn_blackburn,Male,25-30,0.007,-4.553,3.786,3.186,7.699,-0.3397,#e15759
+20231218_s0_roger_mcguire_act0_4r9wru,Cooking,S7-Cooking,roger_mcguire,Male,18-24,-1.093,-8.064,2.153,1.544,4.113,0.229,#4e79a7
+20231218_s0_roger_mcguire_act1_tip8ax,Cooking,S7-Cooking,roger_mcguire,Male,18-24,-0.131,-6.885,1.628,1.188,3.392,0.2496,#4e79a7
+20231208_s0_ronald_guerra_act0_47pjy3,Cooking,S7-Cooking,ronald_guerra,Female,31-35,-0.115,-8.386,3.379,4.248,8.14,-0.0894,#4e79a7
+20231208_s0_ronald_guerra_act1_0qvs48,Cooking,S7-Cooking,ronald_guerra,Female,31-35,-0.376,-9.622,3.284,3.965,8.179,-0.2425,#4e79a7
+20231208_s0_ronald_guerra_act5_y2gscm,Housekeeping,S10-Housekeeping,ronald_guerra,Female,31-35,0.299,-7.307,4.283,3.839,8.889,0.0706,#f28e2b
+20231208_s0_ronald_guerra_act6_aim5sk,Game Night,S12-Game_night,ronald_guerra,Female,31-35,1.916,-8.104,3.664,3.466,7.825,-0.2662,#e15759
+20230831_s1_ronald_harris_act1_dldyfy,Searching,S2-Where_is_X,ronald_harris,Female,36-40,0.875,-4.889,4.263,3.661,8.558,-0.0946,#edc948
+20230831_s1_ronald_harris_act3_innwq4,Cooking,S7-Cooking,ronald_harris,Female,36-40,-0.395,-8.516,2.765,3.507,7.086,0.3209,#4e79a7
+20230831_s1_ronald_harris_act4_zqf4xn,Game Night,S12-Game_night,ronald_harris,Female,36-40,-1.316,-6.626,3.394,3.529,8.071,0.3468,#e15759
+20230815_s0_samantha_lester_act0_513kae,Game Night,S12-Game_night,samantha_lester,Female,18-24,-0.442,-6.945,3.367,3.451,8.272,0.1905,#e15759
+20230927_s1_samantha_may_act1_428xjd,Searching,S2-Where_is_X,samantha_may,Female,46-50,0.527,-4.847,4.636,2.944,8.731,-0.1323,#edc948
+20230927_s1_samantha_may_act3_tidgnk,Searching,S2-Where_is_X,samantha_may,Female,46-50,0.701,-6.304,4.253,3.553,8.685,0.1314,#edc948
+20230927_s1_samantha_may_act4_48becz,Cooking,S7-Cooking,samantha_may,Female,46-50,0.889,-8.214,4.688,3.165,9.256,0.1438,#4e79a7
+20230929_s0_samuel_campos_act0_vprj3h,Searching,S2-Where_is_X,samuel_campos,Female,25-30,1.455,-4.289,4.106,3.38,8.267,-0.0785,#edc948
+20230929_s0_samuel_campos_act2_uxt33r,Searching,S2-Where_is_X,samuel_campos,Female,25-30,0.965,-6.179,4.237,3.884,8.917,0.0986,#edc948
+20230929_s0_samuel_campos_act3_o6q574,Game Night,S12-Game_night,samuel_campos,Female,25-30,1.39,-7.539,4.113,5.089,9.246,-0.3425,#e15759
+20230929_s0_samuel_campos_act4_5kbgah,Cooking,S7-Cooking,samuel_campos,Female,25-30,0.607,-10.385,3.926,4.599,9.177,-0.2037,#4e79a7
+20231102_s0_samuel_rogers_act0_x6hia4,Searching,S2-Where_is_X,samuel_rogers,Male,46-50,-0.155,-5.502,5.441,3.004,9.774,0.0176,#edc948
+20231102_s0_samuel_rogers_act2_67c1t9,Workout,S5-Workout,samuel_rogers,Male,46-50,-0.653,-4.251,5.073,3.284,9.316,-0.2354,#59a14f
+20231102_s0_samuel_rogers_act3_680kij,Housekeeping,S10-Housekeeping,samuel_rogers,Male,46-50,-0.405,-5.836,5.423,2.917,9.638,-0.2339,#f28e2b
+20231102_s0_samuel_rogers_act4_m069p6,Game Night,S12-Game_night,samuel_rogers,Male,46-50,-0.032,-4.518,4.029,3.074,7.883,0.2354,#e15759
+20231221_s0_sara_wilson_act0_kwr7yc,Cooking,S7-Cooking,sara_wilson,Male,25-30,0.112,-4.299,1.533,1.303,3.249,0.3424,#4e79a7
+20231221_s0_sara_wilson_act1_fxb1ad,Cooking,S7-Cooking,sara_wilson,Male,25-30,-0.295,-4.413,1.558,1.438,3.233,0.0392,#4e79a7
+20231221_s0_sara_wilson_act5_5mltvv,Game Night,S12-Game_night,sara_wilson,Male,25-30,-0.224,-2.478,3.296,2.253,6.38,0.2373,#e15759
+20231221_s0_sara_wilson_act6_i9kr0t,Housekeeping,S10-Housekeeping,sara_wilson,Male,25-30,0.519,-3.355,1.749,1.485,3.376,0.3432,#f28e2b
+20231205_s0_sarah_roberts_act0_v24gb2,Cooking,S7-Cooking,sarah_roberts,Male,18-24,0.256,-7.598,3.749,4.629,9.581,-0.2509,#4e79a7
+20231205_s0_sarah_roberts_act1_l8rpbx,Cooking,S7-Cooking,sarah_roberts,Male,18-24,-0.257,-6.866,3.489,5.008,8.743,-0.0362,#4e79a7
+20231205_s0_sarah_roberts_act6_j7fezf,Game Night,S12-Game_night,sarah_roberts,Male,18-24,-0.085,-6.745,3.139,4.329,8.0,-0.0752,#e15759
+20231018_s0_scott_hutchinson_act0_yg2uvq,Meal,S8-Having_a_meal,scott_hutchinson,Male,18-24,-0.227,-9.285,4.51,3.547,8.597,-0.294,#76b7b2
+20231018_s0_scott_hutchinson_act2_nf6n9s,Fresh Air,S19-Fresh_air,scott_hutchinson,Male,18-24,0.497,-7.101,4.859,3.845,9.413,0.1787,#b07aa1
+20230621_s0_sergio_howard_act3_crpegp,Cooking,S7-Cooking,sergio_howard,Male,36-40,0.135,-7.532,4.151,3.848,8.77,-0.0464,#4e79a7
+20231211_s1_seth_bowman_act0_uk6xx7,Cooking,S7-Cooking,seth_bowman,Male,18-24,0.135,-7.211,4.005,5.595,10.611,-0.0215,#4e79a7
+20231211_s1_seth_bowman_act1_u7em0v,Cooking,S7-Cooking,seth_bowman,Male,18-24,0.069,-8.338,3.97,5.192,10.126,-0.2445,#4e79a7
+20231211_s1_seth_bowman_act6_mil3so,Game Night,S12-Game_night,seth_bowman,Male,18-24,-0.169,-8.6,3.564,5.227,9.885,-0.2234,#e15759
+20231211_s1_seth_bowman_act7_mxh0yr,Housekeeping,S10-Housekeeping,seth_bowman,Male,18-24,-0.476,-9.33,4.064,5.307,9.987,0.285,#f28e2b
+20230719_s0_shane_smith_act0_v7hlwd,Workout,S5-Workout,shane_smith,Female,25-30,-0.476,-2.445,3.842,2.225,7.993,-0.3187,#59a14f
+20230719_s0_shane_smith_act1_fuugcm,Game Night,S12-Game_night,shane_smith,Female,25-30,-0.979,-3.859,3.035,3.06,6.359,-0.187,#e15759
+20230719_s0_shane_smith_act3_sfxa5j,Housekeeping,S10-Housekeeping,shane_smith,Female,25-30,-1.326,-5.574,4.808,4.406,10.007,-0.1456,#f28e2b
+20231213_s0_shawn_wright_act0_p7ib77,Cooking,S7-Cooking,shawn_wright,Female,25-30,0.01,-4.88,3.323,3.733,7.872,-0.0069,#4e79a7
+20231213_s0_shawn_wright_act1_t4c8tk,Cooking,S7-Cooking,shawn_wright,Female,25-30,0.26,-3.763,3.879,4.355,8.752,0.0605,#4e79a7
+20231213_s0_shawn_wright_act5_z5oir7,Fresh Air,S19-Fresh_air,shawn_wright,Female,25-30,0.177,-2.204,3.0,4.13,7.969,-0.0047,#b07aa1
+20231213_s0_shawn_wright_act6_ck8xab,Housekeeping,S10-Housekeeping,shawn_wright,Female,25-30,0.261,-1.242,3.632,3.765,7.876,-0.2911,#f28e2b
+20231213_s0_shawn_wright_act7_onxbbz,Game Night,S12-Game_night,shawn_wright,Female,25-30,0.543,-5.172,3.3,3.652,7.614,-0.1794,#e15759
+20230608_s0_shelby_arroyo_act1_w436lf,Relaxing,S1-Relax_at_home,shelby_arroyo,Female,46-50,-0.133,-8.485,3.841,5.773,10.208,0.2405,#9c755f
+20230608_s0_shelby_arroyo_act3_h8gcy2,Fresh Air,S19-Fresh_air,shelby_arroyo,Female,46-50,-0.961,-5.198,3.922,4.905,9.43,0.0963,#b07aa1
+20231013_s0_shelley_jones_act0_86mz1k,Searching,S2-Where_is_X,shelley_jones,Female,36-40,1.071,-6.123,4.447,4.252,9.14,0.1044,#edc948
+20231013_s0_shelley_jones_act2_7g21c5,Fresh Air,S19-Fresh_air,shelley_jones,Female,36-40,-0.031,-5.421,4.04,4.877,9.793,0.1191,#b07aa1
+20231013_s0_shelley_jones_act3_w23p1b,Cooking,S7-Cooking,shelley_jones,Female,36-40,-0.226,-9.492,4.582,4.947,9.976,0.184,#4e79a7
+20231013_s0_shelley_jones_act4_ll1mzx,Game Night,S12-Game_night,shelley_jones,Female,36-40,-0.507,-7.279,4.615,3.435,8.97,-0.3093,#e15759
+20230622_s1_sherri_scott_act0_hy4alw,Meal,S8-Having_a_meal,sherri_scott,Female,31-35,2.082,-6.958,5.261,4.437,10.563,-0.0934,#76b7b2
+20230622_s1_sherri_scott_act1_p0za9g,Housekeeping,S10-Housekeeping,sherri_scott,Female,31-35,1.2,-8.389,5.119,3.917,10.367,0.0277,#f28e2b
+20230913_s0_stacey_lamb_act0_haahx0,Meal,S8-Having_a_meal,stacey_lamb,Male,41-45,-0.236,-10.618,4.06,6.376,11.097,-0.1131,#76b7b2
+20230913_s0_stacey_lamb_act3_3520q3,Fresh Air,S19-Fresh_air,stacey_lamb,Male,41-45,1.099,-6.929,5.045,5.737,11.356,0.2411,#b07aa1
+20231027_s1_stacie_cross_act0_0ii1m7,Cooking,S7-Cooking,stacie_cross,Male,41-45,-0.39,-8.659,4.981,5.669,11.429,-0.0122,#4e79a7
+20231027_s1_stacie_cross_act2_kijh3i,Searching,S2-Where_is_X,stacie_cross,Male,41-45,-1.104,-3.891,6.734,5.155,13.013,0.188,#edc948
+20231027_s1_stacie_cross_act3_xkxv6y,Fresh Air,S19-Fresh_air,stacie_cross,Male,41-45,-0.031,-3.406,4.25,5.885,11.131,0.2464,#b07aa1
+20231027_s1_stacie_cross_act4_1anme8,Game Night,S12-Game_night,stacie_cross,Male,41-45,-1.635,-6.442,4.092,5.113,11.264,0.0034,#e15759
+20230914_s1_stephanie_arnold_act0_4tyh8u,Meal,S8-Having_a_meal,stephanie_arnold,Female,36-40,0.732,-10.724,4.151,7.734,13.079,0.2867,#76b7b2
+20230914_s1_stephanie_arnold_act3_acdkmp,Fresh Air,S19-Fresh_air,stephanie_arnold,Female,36-40,1.466,-4.971,3.099,3.533,7.609,0.061,#b07aa1
+20230725_s0_stephanie_moses_act0_uk2jx1,Housekeeping,S10-Housekeeping,stephanie_moses,Female,36-40,0.438,-8.08,4.146,3.9,8.828,0.2452,#f28e2b
+20230725_s0_stephanie_moses_act1_z5e8ru,Meal,S8-Having_a_meal,stephanie_moses,Female,36-40,0.201,-7.954,3.865,4.085,8.465,-0.1116,#76b7b2
+20231020_s1_steven_jackson_act0_y4ovu2,Meal,S8-Having_a_meal,steven_jackson,Female,25-30,0.173,-4.834,2.092,1.093,3.702,-0.0008,#76b7b2
+20231020_s1_steven_jackson_act1_tdwliv,Fresh Air,S19-Fresh_air,steven_jackson,Female,25-30,0.764,-5.891,3.562,1.53,6.606,0.022,#b07aa1
+20231127_s0_steven_vang_act0_ajubls,Cooking,S7-Cooking,steven_vang,Female,18-24,-1.005,-11.285,3.258,3.929,8.604,-0.2765,#4e79a7
+20231127_s0_steven_vang_act2_hryoaj,Housekeeping,S10-Housekeeping,steven_vang,Female,18-24,-0.774,-9.639,4.052,4.529,9.306,-0.071,#f28e2b
+20231127_s0_steven_vang_act3_p25237,Game Night,S12-Game_night,steven_vang,Female,18-24,0.462,-9.851,3.02,3.978,7.759,0.2921,#e15759
+20231127_s0_steven_vang_act4_mbwlha,Fresh Air,S19-Fresh_air,steven_vang,Female,18-24,0.6,-6.116,2.841,4.899,8.937,0.0916,#b07aa1
+20230925_s0_suzanne_romero_act0_60lk1p,Meal,S8-Having_a_meal,suzanne_romero,Male,18-24,0.428,-6.341,4.063,5.682,10.257,-0.2257,#76b7b2
+20230925_s0_suzanne_romero_act4_82fp8g,Fresh Air,S19-Fresh_air,suzanne_romero,Male,18-24,0.338,-2.835,4.969,5.076,11.28,-0.1128,#b07aa1
+20231204_s1_sylvia_joseph_act0_q94lwc,Cooking,S7-Cooking,sylvia_joseph,Male,36-40,-0.781,-7.595,3.466,3.632,7.398,-0.2159,#4e79a7
+20231204_s1_sylvia_joseph_act1_j8ro51,Cooking,S7-Cooking,sylvia_joseph,Male,36-40,-1.794,-7.335,4.12,3.957,8.546,-0.3326,#4e79a7
+20231204_s1_sylvia_joseph_act5_xyzax4,Searching,S2-Where_is_X,sylvia_joseph,Male,36-40,-1.71,-5.679,4.334,3.2,8.242,0.2992,#edc948
+20230914_s0_tamara_gibbs_act0_w1z65k,Meal,S8-Having_a_meal,tamara_gibbs,Female,18-24,-0.58,-5.107,2.603,4.202,8.139,-0.0363,#76b7b2
+20230914_s0_tamara_gibbs_act3_d8l1u5,Fresh Air,S19-Fresh_air,tamara_gibbs,Female,18-24,-0.914,-7.986,3.405,5.344,9.953,-0.1347,#b07aa1
+20230731_s0_tammy_campos_act0_d3blev,Game Night,S12-Game_night,tammy_campos,Male,46-50,-0.145,-6.675,2.927,2.911,6.545,0.0689,#e15759
+20230926_s0_tasha_lee_act0_o7xjqq,Meal,S8-Having_a_meal,tasha_lee,Female,31-35,1.441,-7.96,4.423,5.539,10.388,-0.3449,#76b7b2
+20230926_s0_tasha_lee_act4_emnd1c,Fresh Air,S19-Fresh_air,tasha_lee,Female,31-35,1.079,-7.226,5.558,3.903,10.681,-0.1554,#b07aa1
+20231110_s0_thomas_brown_act1_ne6008,Cooking,S7-Cooking,thomas_brown,Male,36-40,-0.313,-5.54,4.0,4.039,8.731,0.1421,#4e79a7
+20231110_s0_thomas_brown_act2_y79qwk,Housekeeping,S10-Housekeeping,thomas_brown,Male,36-40,-0.348,-4.621,3.148,3.713,7.535,0.0936,#f28e2b
+20231110_s0_thomas_brown_act3_pisdac,Game Night,S12-Game_night,thomas_brown,Male,36-40,0.011,-4.497,3.336,3.358,7.297,0.3373,#e15759
+20231110_s0_thomas_brown_act4_x3t73z,Searching,S2-Where_is_X,thomas_brown,Male,36-40,0.019,-3.146,4.256,3.627,8.45,0.0843,#edc948
+20230901_s0_thomas_marks_act1_i7iwe7,Searching,S2-Where_is_X,thomas_marks,Female,36-40,0.643,-7.367,5.017,4.194,9.998,-0.0157,#edc948
+20230901_s0_thomas_marks_act3_1a99i8,Cooking,S7-Cooking,thomas_marks,Female,36-40,1.003,-12.389,3.766,5.311,10.014,0.183,#4e79a7
+20230901_s0_thomas_marks_act4_ximvkf,Game Night,S12-Game_night,thomas_marks,Female,36-40,1.2,-12.592,3.081,4.254,8.419,0.2823,#e15759
+20230726_s1_thomas_nixon_act0_zirlmy,Workout,S5-Workout,thomas_nixon,Female,36-40,0.625,-12.994,3.821,4.991,9.931,0.1545,#59a14f
+20230726_s1_thomas_nixon_act3_vvy3pz,Relaxing,S1-Relax_at_home,thomas_nixon,Female,36-40,-1.495,-4.54,4.555,2.909,8.947,0.3242,#9c755f
+20231003_s0_thomas_tanner_act3_sbdxpo,Game Night,S12-Game_night,thomas_tanner,Male,41-45,1.496,-10.997,2.405,3.399,6.654,0.1974,#e15759
+20231003_s0_thomas_tanner_act4_wpalov,Cooking,S7-Cooking,thomas_tanner,Male,41-45,0.303,-10.284,3.478,4.102,8.045,0.2568,#4e79a7
+20230808_s0_timothy_taylor_act0_3cgk3y,Meal,S8-Having_a_meal,timothy_taylor,Female,18-24,-0.819,-3.728,3.529,2.906,7.393,-0.2701,#76b7b2
+20230808_s0_timothy_taylor_act2_d3e2e0,Cooking,S7-Cooking,timothy_taylor,Female,18-24,-0.628,-8.531,3.4,3.606,8.104,0.1627,#4e79a7
+20230718_s0_timothy_velasquez_act1_14egxa,Game Night,S12-Game_night,timothy_velasquez,Male,25-30,-0.54,-4.441,3.758,4.763,9.349,-0.0419,#e15759
+20230718_s0_timothy_velasquez_act3_pzwo9t,Workout,S5-Workout,timothy_velasquez,Male,25-30,-0.619,-1.798,4.356,2.9,8.774,0.0372,#59a14f
+20230703_s0_tommy_ayala_act0_c07rbi,Meal,S8-Having_a_meal,tommy_ayala,Female,18-24,-0.029,-9.255,3.272,4.804,8.819,0.1079,#76b7b2
+20230703_s0_tommy_ayala_act4_i8zkip,Searching,S2-Where_is_X,tommy_ayala,Female,18-24,-0.976,-8.431,4.109,4.052,8.499,0.3289,#edc948
+20231102_s1_trevor_riley_act4_01db8d,Game Night,S12-Game_night,trevor_riley,Male,18-24,0.23,-6.296,3.384,3.188,7.689,0.3392,#e15759
+20230724_s0_tyler_ayers_act0_bhdzn3,Meal,S8-Having_a_meal,tyler_ayers,Female,41-45,-0.254,-6.585,2.874,3.262,6.46,-0.1482,#76b7b2
+20230724_s0_tyler_ayers_act2_gjwzde,Workout,S5-Workout,tyler_ayers,Female,41-45,-0.765,-8.796,2.295,3.153,6.444,0.1636,#59a14f
+20230807_s1_vanessa_chavez_act0_gu6go2,Cooking,S7-Cooking,vanessa_chavez,Female,25-30,0.178,-7.021,3.086,3.816,7.604,0.175,#4e79a7
+20230807_s1_vanessa_chavez_act3_srm23t,Meal,S8-Having_a_meal,vanessa_chavez,Female,25-30,-1.19,-9.196,3.502,4.915,9.167,-0.1075,#76b7b2
+20230807_s1_vanessa_chavez_act4_4x4ib3,Game Night,S12-Game_night,vanessa_chavez,Female,25-30,-0.876,-10.252,2.91,3.656,7.352,-0.2633,#e15759
+20231220_s0_victor_sloan_act0_0afk6m,Cooking,S7-Cooking,victor_sloan,Male,18-24,0.309,-9.945,3.931,4.327,8.733,-0.3213,#4e79a7
+20231220_s0_victor_sloan_act1_yr5kb6,Cooking,S7-Cooking,victor_sloan,Male,18-24,0.385,-9.437,4.039,4.319,9.021,0.1941,#4e79a7
+20231220_s0_victor_sloan_act5_9k2tu1,Game Night,S12-Game_night,victor_sloan,Male,18-24,0.265,-4.955,2.079,1.714,4.029,-0.0072,#e15759
+20231220_s0_victor_sloan_act6_xecyns,Housekeeping,S10-Housekeeping,victor_sloan,Male,18-24,1.169,-5.816,4.512,4.235,9.246,0.3399,#f28e2b
+20231206_s1_virginia_perez_act0_vmsk4c,Cooking,S7-Cooking,virginia_perez,Female,25-30,-0.164,-6.677,4.791,4.104,10.039,-0.0245,#4e79a7
+20231206_s1_virginia_perez_act1_smf6ci,Cooking,S7-Cooking,virginia_perez,Female,25-30,-0.221,-7.651,4.282,3.973,9.074,0.3345,#4e79a7
+20231206_s1_virginia_perez_act6_ow29t4,Housekeeping,S10-Housekeeping,virginia_perez,Female,25-30,-0.652,-6.829,4.311,3.899,9.031,-0.0619,#f28e2b
+20230613_s0_virginia_rivera_act1_i7nw11,Relaxing,S1-Relax_at_home,virginia_rivera,Female,46-50,-0.786,-9.334,3.716,4.394,8.411,0.2056,#9c755f
+20230613_s0_virginia_rivera_act2_qxxogr,Meal,S8-Having_a_meal,virginia_rivera,Female,46-50,-0.359,-10.057,3.785,3.432,7.845,-0.2906,#76b7b2
+20230613_s0_virginia_rivera_act3_oc60s5,Fresh Air,S19-Fresh_air,virginia_rivera,Female,46-50,-0.851,-11.102,3.436,4.185,8.13,0.0388,#b07aa1
+20230613_s0_virginia_rivera_act4_7gekom,Game Night,S12-Game_night,virginia_rivera,Female,46-50,-1.337,-11.321,2.599,2.69,5.749,0.2114,#e15759
+20231201_s0_walter_park_act3_bfx6pb,Game Night,S12-Game_night,walter_park,Male,31-35,-0.633,-8.142,2.492,3.955,7.783,0.2973,#e15759
+20230705_s0_william_davis_act3_rjlblk,Meal,S8-Having_a_meal,william_davis,Male,31-35,1.097,-7.642,3.478,4.106,9.492,0.2258,#76b7b2
+20230705_s0_william_davis_act4_h94ovw,Relaxing,S1-Relax_at_home,william_davis,Male,31-35,0.158,-6.84,3.753,3.301,8.278,-0.3241,#9c755f
+20230821_s1_william_wilson_act3_gnf0bz,Searching,S2-Where_is_X,william_wilson,Male,25-30,-1.162,-8.544,4.955,4.815,10.396,-0.0891,#edc948
+20230925_s1_xavier_norris_act0_2zdffk,Meal,S8-Having_a_meal,xavier_norris,Female,41-45,-0.579,-6.163,4.593,4.405,9.31,-0.3159,#76b7b2
+20230925_s1_xavier_norris_act4_n8vb35,Fresh Air,S19-Fresh_air,xavier_norris,Female,41-45,0.573,-5.394,3.647,3.34,7.548,-0.2735,#b07aa1
+20230927_s0_zachary_price_act1_5uyac6,Searching,S2-Where_is_X,zachary_price,Male,18-24,-0.156,-2.584,3.044,2.428,6.171,0.1227,#edc948
+20230927_s0_zachary_price_act2_rk9hk8,Game Night,S12-Game_night,zachary_price,Male,18-24,-0.272,-4.96,1.827,1.862,4.042,0.1493,#e15759
+20230927_s0_zachary_price_act3_u0z922,Searching,S2-Where_is_X,zachary_price,Male,18-24,-0.266,-4.702,3.421,2.62,6.504,0.1916,#edc948
+20230927_s0_zachary_price_act4_casc9i,Cooking,S7-Cooking,zachary_price,Male,18-24,0.08,-5.445,1.413,1.3,3.064,0.2558,#4e79a7
